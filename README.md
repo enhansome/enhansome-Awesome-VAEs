@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,944 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,943 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1592,7 +1592,7 @@ IntroVAE Introspective variational autoencoders for photographic image synthesis
 
 Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jordan, Yosef	<https://papers.nips.cc/paper/7850-information-constraints-on-auto-encoding-variational-bayes.pdf>	<https://github.com/romain-lopez/HCV> ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2018-05-24
 
-Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 470 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
+Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
 Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 94 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 10 | 🌐 Python | 📅 2023-07-12
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
