@@ -1311,7 +1311,7 @@ Semisupervised text classification by variational autoencoder.	Xu, Tan	<https://
 
 Learning deep latent-variable MRFs with amortized Bethe free-energy minimization.	Wiseman	<https://openreview.net/pdf?id=ByeMHULt_N>
 
-Contrastive variational autoencoder enhances salient features.	Abid, Zou	<https://arxiv.org/pdf/1902.04601.pdf>	<https://github.com/abidlabs/contrastive_vae> ⭐ 73 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-02-12
+Contrastive variational autoencoder enhances salient features.	Abid, Zou	<https://arxiv.org/pdf/1902.04601.pdf>	<https://github.com/abidlabs/contrastive_vae> ⭐ 72 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-02-12
 
 Learning latent superstructures in variational autoencoders for deep multidimensional clustering.	Li, Chen, Poon, Zhang	<https://openreview.net/pdf?id=SJgNwi09Km>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
