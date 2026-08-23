@@ -1330,7 +1330,7 @@ Practical lossless compression with latent variables using bits back coding.	Tow
 
 BIVA:  a very deep hierarchy of latent variables for generative modeling.	Maaloe, Fraccaro, Lievin, Winther.	<https://arxiv.org/pdf/1902.02102.pdf>
 
-Flow++: improving flow-based generative models with variational dequantization and architecture design.	Ho, Chen, Srinivas, Duan, Abbeel.	<https://arxiv.org/pdf/1902.00275.pdf>	<https://github.com/aravindsrinivas/flowpp> ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2019-04-27
+Flow++: improving flow-based generative models with variational dequantization and architecture design.	Ho, Chen, Srinivas, Duan, Abbeel.	<https://arxiv.org/pdf/1902.00275.pdf>	<https://github.com/aravindsrinivas/flowpp> ⭐ 192 | 🐛 4 | 🌐 Python | 📅 2019-04-27
 
 Sylvester normalizing flows for variational inference.	van den Berg, Hasenclever, Tomczak, Welling.	<https://arxiv.org/pdf/1803.05649.pdf>	<https://github.com/riannevdberg/sylvester-flows> ⭐ 182 | 🐛 2 | 🌐 Python | 📅 2019-07-05
 
@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,959 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,960 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1555,7 +1555,7 @@ Leveraging the exact likelihood of deep latent variable models.	Mattei, Frellsen
 
 What is wrong with VAEs?	Kosiorek	<http://akosiorek.github.io/ml/2018/03/14/what_is_wrong_with_vaes.html>
 
-Stochastic variational video prediction.	Babaeizadeh, Finn, Erhan, Campbell, Levine	<https://arxiv.org/pdf/1710.11252.pdf>	<https://github.com/alexlee-gk/video_prediction> ⭐ 305 | 🐛 25 | 🌐 Python | 📅 2019-10-08
+Stochastic variational video prediction.	Babaeizadeh, Finn, Erhan, Campbell, Levine	<https://arxiv.org/pdf/1710.11252.pdf>	<https://github.com/alexlee-gk/video_prediction> ⭐ 304 | 🐛 25 | 🌐 Python | 📅 2019-10-08
 
 Variational attention for sequence-to-sequence models.	Bahuleyan, Mou, Vechtomova, Poupart	<https://arxiv.org/pdf/1712.08207.pdf>	<https://github.com/variational-attention/tf-var-attention> ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2018-03-02
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
