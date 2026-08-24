@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,960 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,961 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1772,7 +1772,7 @@ It takes (only) two: adversarial generator-encoder networks.	Ulyanov, Vedaldi, L
 
 Symmetric Variational Autoencoder and connections to adversarial learning.	Chen, Dai, Pu, Li, Su, Carin	<https://arxiv.org/pdf/1709.01846.pdf>
 
-Reconstruction-based disentanglement for pose-invariant face recognition.	Peng, Yu, Sohn, Metaxas, Chandraker	<https://arxiv.org/pdf/1702.03041.pdf>	<https://github.com/zhangjunh/DR-GAN-by-pytorch> ⭐ 130 | 🐛 3 | 🌐 Python | 📅 2019-07-24
+Reconstruction-based disentanglement for pose-invariant face recognition.	Peng, Yu, Sohn, Metaxas, Chandraker	<https://arxiv.org/pdf/1702.03041.pdf>	<https://github.com/zhangjunh/DR-GAN-by-pytorch> ⭐ 129 | 🐛 3 | 🌐 Python | 📅 2019-07-24
 
 Is maximum likelihood useful for representation learning?	Huszár	<https://www.inference.vc/maximum-likelihood-for-representation-learning-2/>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
