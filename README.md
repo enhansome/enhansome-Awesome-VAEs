@@ -1818,7 +1818,7 @@ The Variational Fair Autoencoder.	Louizos, Swersky, Li, Welling, Zemel	<https://
 
 Information dropout: learning optimal representations through noisy computations.	Achille, Soatto	<https://arxiv.org/pdf/1611.01353.pdf>
 
-Domain separation networks.	Bousmalis, Trigeorgis, Silberman, Krishnan, Erhan	<https://arxiv.org/pdf/1608.06019.pdf>	<https://github.com/fungtion/DSN> ⭐ 157 | 🐛 7 | 🌐 Python | 📅 2019-03-22  <https://github.com/farnazj/Domain-Separation-Networks> ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2017-12-30
+Domain separation networks.	Bousmalis, Trigeorgis, Silberman, Krishnan, Erhan	<https://arxiv.org/pdf/1608.06019.pdf>	<https://github.com/fungtion/DSN> ⭐ 158 | 🐛 7 | 🌐 Python | 📅 2019-03-22  <https://github.com/farnazj/Domain-Separation-Networks> ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2017-12-30
 
 Disentangling factors of variation in deep representations using adversarial training.	Mathieu, Zhao, Sprechmann, Ramesh, LeCunn	<https://arxiv.org/pdf/1611.03383.pdf>	<https://github.com/ananyahjha93/disentangling-factors-of-variation-using-adversarial-training> ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2018-08-14
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
