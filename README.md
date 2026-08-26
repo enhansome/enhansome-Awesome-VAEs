@@ -1344,7 +1344,7 @@ Learning disentangled representations with reference-based variational autoencod
 
 Disentangling factors of variation using few labels.	Locatello, Tschannen, Bauer, Ratsch, Scholkopf, Bachem	<https://arxiv.org/pdf/1905.01258.pdf>
 
-Disentangling disentanglement in variational autoencoders	Mathieu, Rainforth, Siddharth, The,	<https://arxiv.org/pdf/1812.02833.pdf>	<https://github.com/iffsid/disentangling-disentanglement> ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2019-06-24
+Disentangling disentanglement in variational autoencoders	Mathieu, Rainforth, Siddharth, The,	<https://arxiv.org/pdf/1812.02833.pdf>	<https://github.com/iffsid/disentangling-disentanglement> ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2019-06-24
 
 LIA: latently invertible autoencoder with adversarial learning	Zhu, Zhao, Zhang	<https://arxiv.org/pdf/1906.08090.pdf>
 
@@ -1594,7 +1594,7 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 94 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 10 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 94 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
@@ -1864,7 +1864,7 @@ Information dropout: learning optimal representations through noisy computations
 
 Weakly-supervised disentangling with recurrent transformations for 3D view synthesis.	Yang, Reed, Yang, Lee	<https://arxiv.org/pdf/1601.00706.pdf>	<https://github.com/jimeiyang/deepRotator> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2017-11-21
 
-Autoencoding beyond pixels using a learned similarity metric.	Boesen, Larsen, Sonderby, Larochelle, Winther	<https://arxiv.org/pdf/1512.09300.pdf>	<https://github.com/andersbll/autoencoding_beyond_pixels> ⭐ 446 | 🐛 13 | 🌐 Python | 📅 2017-02-21
+Autoencoding beyond pixels using a learned similarity metric.	Boesen, Larsen, Sonderby, Larochelle, Winther	<https://arxiv.org/pdf/1512.09300.pdf>	<https://github.com/andersbll/autoencoding_beyond_pixels> ⭐ 447 | 🐛 13 | 🌐 Python | 📅 2017-02-21
 
 Generating images with perceptual similarity metrics based on deep networks	Dosovitskiy, Brox.	<https://arxiv.org/pdf/1602.02644.pdf>	<https://github.com/shijx12/DeepSim> ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2017-09-05
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

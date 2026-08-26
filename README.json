@@ -216,7 +216,7 @@
             "last_commit": "2019-06-24T15:35:16Z",
             "owner": "iffsid",
             "repo": "disentangling-disentanglement",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -1884,7 +1884,7 @@
             "last_commit": "2017-02-21T10:30:25Z",
             "owner": "andersbll",
             "repo": "autoencoding_beyond_pixels",
-            "stars": 446
+            "stars": 447
           }
         },
         {
@@ -2009,7 +2009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:54:04.981Z",
+    "last_updated": "2026-08-26T07:55:18.133Z",
     "original_repository": "matthewvowels1/Awesome-VAEs",
     "original_repository_id": 201893041,
     "original_repository_sha": "68e9db54b4b2684343550133fa3ce7436a71d779",
