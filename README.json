@@ -141,7 +141,7 @@
             "last_commit": "2024-03-31T17:36:48Z",
             "owner": "vikasverma1077",
             "repo": "manifold_mixup",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2022-07-22T08:34:45Z",
             "owner": "bits-back",
             "repo": "bits-back",
-            "stars": 154
+            "stars": 155
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9961
+            "stars": 9962
           }
         },
         {
@@ -2009,9 +2009,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:55:18.133Z",
-    "original_repository": "matthewvowels1/Awesome-VAEs",
-    "original_repository_id": 201893041,
+    "last_updated": "2026-08-27T11:24:57.007Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 201893041,
+      "language": null,
+      "last_commit": "2021-07-11T11:39:21Z",
+      "owner": "matthewvowels1",
+      "repo": "Awesome-VAEs",
+      "stars": 845
+    },
     "original_repository_sha": "68e9db54b4b2684343550133fa3ce7436a71d779",
     "enhanced_repository": "enhansome/enhansome-Awesome-VAEs",
     "enhanced_repository_description": null,
