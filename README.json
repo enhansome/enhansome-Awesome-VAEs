@@ -16,7 +16,8 @@
             "owner": "AlbertOh90",
             "repo": "Soft-VQ-VAE",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "snu-mllab",
             "repo": "DisentanglementICML19",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2020"
@@ -52,7 +54,8 @@
             "owner": "ratschlab",
             "repo": "GP-VAE",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "rdevon",
             "repo": "DIM",
             "stars": 810
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "rr-learning",
             "repo": "disentanglement_dataset",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "AMLab-Amsterdam",
             "repo": "DIVA",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "adjidieng",
             "repo": "REM",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "abidlabs",
             "repo": "contrastive_vae",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "vikasverma1077",
             "repo": "manifold_mixup",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "fhkingma",
             "repo": "bitswap",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "bits-back",
             "repo": "bits-back",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "aravindsrinivas",
             "repo": "flowpp",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "riannevdberg",
             "repo": "sylvester-flows",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "iffsid",
             "repo": "disentangling-disentanglement",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "oripress",
             "repo": "ContentDisentanglement",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "XuezheMax",
             "repo": "mae",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "jlezama",
             "repo": "disentangling-jacobian",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "google-research",
             "repo": "disentanglement_lib",
             "stars": 1425
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "daib13",
             "repo": "TwoStageVAE",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "ZhilZheng",
             "repo": "Lr-LiVAE",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "zihangJiang",
             "repo": "DR-Learning-for-3D-Face",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "mattjj",
             "repo": "svae",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "sbharadwajj",
             "repo": "Generalized-Zero-Shot-Learning-via-Aligned-Variational-Autoencoders",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "MichaelKevinKelly",
             "repo": "IODINE",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9962
-          }
+            "stars": 9961
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "lukaszbinden",
             "repo": "spatial-broadcast-decoder",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "alexalemi",
             "repo": "vib_demo",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "jxhe",
             "repo": "vae-lagging-encoder",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "skolouri",
             "repo": "swae",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "FilippoC",
             "repo": "diffdp",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "ys1998",
             "repo": "vae-latent-structure",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "xqding",
             "repo": "TD-VAE",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "sodawater",
             "repo": "T-CVAE",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "muhanzhang",
             "repo": "D-VAE",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2019"
@@ -553,7 +588,8 @@
             "owner": "joelouismarino",
             "repo": "amortized-variational-filtering",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "akosiorek",
             "repo": "sqair",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "tianye95",
             "repo": "interpretable-intuitive-physics-model",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "CW-Huang",
             "repo": "NAF",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "ermongroup",
             "repo": "BiasAndGeneralization",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "thaihungle",
             "repo": "VMED",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "dcmoyer",
             "repo": "inv-rep",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "alexlee-gk",
             "repo": "video_prediction",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "variational-attention",
             "repo": "tf-var-attention",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "ananyahjha93",
             "repo": "cycle-consistent-vae",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "cianeastwood",
             "repo": "qedr",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "naamahadad",
             "repo": "A-Two-Step-Disentanglement-Method",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "denproc",
             "repo": "Taming-VAEs",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "dragen1860",
             "repo": "IntroVAE-Pytorch",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "romain-lopez",
             "repo": "HCV",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "Schlumberger",
             "repo": "joint-vae",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "1Konny",
             "repo": "VQ-VAE",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "yatindandi",
             "repo": "Disentangled-Sequential-Autoencoder",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "gregversteeg",
             "repo": "CorEx",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "ermongroup",
             "repo": "lagvae",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -853,7 +908,8 @@
             "owner": "microsoft",
             "repo": "jackknife-variational-inference",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -868,7 +924,8 @@
             "owner": "snakeztc",
             "repo": "NeuralDialog-LAED",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -883,7 +940,8 @@
             "owner": "mhw32",
             "repo": "multimodal-vae-public",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "openai",
             "repo": "glow",
             "stars": 3185
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "chriscremer",
             "repo": "Inference-Suboptimality",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "LMescheder",
             "repo": "AdversarialVariationalBayes",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "harvardnlp",
             "repo": "sa-vae",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "jiacheng-xu",
             "repo": "vmf_vae_nlp",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "nicola-decao",
             "repo": "s-vae-tf",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "facebookresearch",
             "repo": "FaderNetworks",
             "stars": 760
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1068,8 @@
             "owner": "Gara-Dorta",
             "repo": "tf_mvg",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "samuela",
             "repo": "oi-vae",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "edouardpineau",
             "repo": "infoCatVAE",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "joelouismarino",
             "repo": "iterative_inference",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1132,8 @@
             "owner": "HsinYingLee",
             "repo": "DRIT",
             "stars": 856
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1148,8 @@
             "owner": "AaltoVision",
             "repo": "pioneer",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "kridgeway",
             "repo": "f-statistic-loss-nips-2018",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "tolstikhin",
             "repo": "wae",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "pclucas14",
             "repo": "aux-vae",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1212,8 @@
             "owner": "Prinsphield",
             "repo": "DNA-GAN",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1228,8 @@
             "owner": "GoudetOlivier",
             "repo": "CGNN",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1244,8 @@
             "owner": "ermongroup",
             "repo": "flow-gan",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1260,8 @@
             "owner": "rguo12",
             "repo": "CIKM18-LCVA",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1276,8 @@
             "owner": "sungyubkim",
             "repo": "MINE-Mutual-Information-Neural-Estimation-",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1292,8 @@
             "owner": "pimdh",
             "repo": "lie-vae",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2018"
@@ -1234,7 +1314,8 @@
             "owner": "AMLab-Amsterdam",
             "repo": "CEVAE",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "ananyahjha93",
             "repo": "challenges-in-disentangling",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1346,8 @@
             "owner": "probtorch",
             "repo": "probtorch",
             "stars": 892
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1362,8 @@
             "owner": "ermongroup",
             "repo": "Variational-Ladder-Autoencoder",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1378,8 @@
             "owner": "zhixinshu",
             "repo": "NeuralFaceEditing",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1394,8 @@
             "owner": "jiamings",
             "repo": "tsong.me",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1410,8 @@
             "owner": "wnhsu",
             "repo": "FactorizedHierarchicalVAE",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1426,8 @@
             "owner": "wnhsu",
             "repo": "SpeechVAE",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1442,8 @@
             "owner": "ap229997",
             "repo": "DRNET",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1458,8 @@
             "owner": "ajbrock",
             "repo": "Neural-Photo-Editor",
             "stars": 2074
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1474,8 @@
             "owner": "FighterLYL",
             "repo": "iwae",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1490,8 @@
             "owner": "taesungp",
             "repo": "real-nvp",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1506,8 @@
             "owner": "masa-su",
             "repo": "jmvae",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1522,8 @@
             "owner": "ermongroup",
             "repo": "Sequential-Variational-Autoencoder",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1538,8 @@
             "owner": "Nat-D",
             "repo": "GMVAE",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1554,8 @@
             "owner": "rahulk90",
             "repo": "vae_sparse",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1570,8 @@
             "owner": "sporsho",
             "repo": "hdp-vae",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1586,8 @@
             "owner": "edchengg",
             "repo": "VCCA_pytorch",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1602,8 @@
             "owner": "bobchennan",
             "repo": "VAE_NBP",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1618,8 @@
             "owner": "neocxi",
             "repo": "pixelsnail-public",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1634,8 @@
             "owner": "kefirski",
             "repo": "bdir_vae",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1650,8 @@
             "owner": "DmitryUlyanov",
             "repo": "AGE",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1666,8 @@
             "owner": "zhangjunh",
             "repo": "DR-GAN-by-pytorch",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1682,8 @@
             "owner": "kayamin",
             "repo": "DR-GAN",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1594,7 +1698,8 @@
             "owner": "jmtomczak",
             "repo": "vae_householder_flow",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1609,7 +1714,8 @@
             "owner": "geoffreyroeder",
             "repo": "iwae",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1730,8 @@
             "owner": "akashgit",
             "repo": "VEEGAN",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2017"
@@ -1644,8 +1751,9 @@
             "last_commit": "2020-10-29T17:10:04Z",
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2502
-          }
+            "stars": 2504
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1768,8 @@
             "owner": "sbavon",
             "repo": "Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1784,8 @@
             "owner": "dendisuhubdy",
             "repo": "vfae",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1800,8 @@
             "owner": "fungtion",
             "repo": "DSN",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1816,8 @@
             "owner": "ananyahjha93",
             "repo": "disentangling-factors-of-variation-using-adversarial-training",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1832,8 @@
             "owner": "wead-hsu",
             "repo": "ssvae",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1848,8 @@
             "owner": "ex4sperans",
             "repo": "variational-inference-with-normalizing-flows",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1750,7 +1864,8 @@
             "owner": "yburda",
             "repo": "iwae",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1765,7 +1880,8 @@
             "owner": "yselivonchyk",
             "repo": "Tensorflow_WhatWhereAutoencoder",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1780,7 +1896,8 @@
             "owner": "enalisnick",
             "repo": "mixture_density_VAEs",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1795,7 +1912,8 @@
             "owner": "larsmaaloee",
             "repo": "auxiliary-deep-generative-models",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1810,7 +1928,8 @@
             "owner": "igul222",
             "repo": "PixelVAE",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1825,7 +1944,8 @@
             "owner": "conan7882",
             "repo": "adversarial-autoencoders",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1960,8 @@
             "owner": "LynnHo",
             "repo": "f-GAN-Tensorflow",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1976,8 @@
             "owner": "oval-group",
             "repo": "DISCONets",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1992,8 @@
             "owner": "jimeiyang",
             "repo": "deepRotator",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +2008,8 @@
             "owner": "andersbll",
             "repo": "autoencoding_beyond_pixels",
             "stars": 447
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2024,8 @@
             "owner": "shijx12",
             "repo": "DeepSim",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1915,7 +2040,8 @@
             "owner": "openai",
             "repo": "InfoGAN",
             "stars": 1069
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2016"
@@ -1936,7 +2062,8 @@
             "owner": "yselivonchyk",
             "repo": "TensorFlow_DCIGN",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1951,7 +2078,8 @@
             "owner": "wsjeon",
             "repo": "ConditionalVariationalAutoencoder",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -1966,7 +2094,8 @@
             "owner": "ericjang",
             "repo": "draw",
             "stars": 526
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2015"
@@ -1987,7 +2116,8 @@
             "owner": "saemundsson",
             "repo": "semisupervised_vae",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         },
         {
           "node_type": "item",
@@ -2002,14 +2132,15 @@
             "owner": "ashwindcruz",
             "repo": "dgm",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:24:01.554Z"
         }
       ],
       "title": "2014"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:15:16.499Z",
+    "last_updated": "2026-08-28T19:24:01.554Z",
     "original_repository_info": {
       "archived": false,
       "id": 201893041,
