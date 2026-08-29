@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 188800131,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-05-28T08:03:24Z",
+            "open_issues": 1,
             "owner": "AlbertOh90",
             "repo": "Soft-VQ-VAE",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Learning Discrete and Continuous Factors of Data via Alternating Disentanglement\" accepted at ICML2019",
+            "homepage": null,
             "id": 185205336,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-08-22T01:05:04Z",
+            "open_issues": 1,
             "owner": "snu-mllab",
             "repo": "DisentanglementICML19",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow implementation for the GP-VAE model described in https://arxiv.org/abs/1907.04155",
+            "homepage": null,
             "id": 216187719,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T23:50:51Z",
+            "open_issues": 4,
             "owner": "ratschlab",
             "repo": "GP-VAE",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep InfoMax (DIM), or \"Learning Deep Representations by Mutual Information Estimation and Maximization\"",
+            "homepage": null,
             "id": 145997093,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-04-25T15:19:28Z",
+            "open_issues": 21,
             "owner": "rdevon",
             "repo": "DIM",
-            "stars": 810
+            "stars": 810,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 190761137,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-04-17T19:18:00Z",
+            "open_issues": 1,
             "owner": "rr-learning",
             "repo": "disentanglement_dataset",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of 'DIVA: Domain Invariant Variational Autoencoders'",
+            "homepage": null,
             "id": 204951688,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-11-22T17:02:58Z",
+            "open_issues": 5,
             "owner": "AMLab-Amsterdam",
             "repo": "DIVA",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -112,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reweighted Expectation Maximization",
+            "homepage": null,
             "id": 191799252,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-06-14T00:32:13Z",
+            "open_issues": 0,
             "owner": "adjidieng",
             "repo": "REM",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -128,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contrastive Variational Autoencoders",
+            "homepage": null,
             "id": 170221455,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-02-12T00:30:45Z",
+            "open_issues": 1,
             "owner": "abidlabs",
             "repo": "contrastive_vae",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -144,12 +184,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for reproducing Manifold Mixup results (ICML 2019)",
+            "homepage": null,
             "id": 137075504,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-31T17:36:48Z",
+            "open_issues": 9,
             "owner": "vikasverma1077",
             "repo": "manifold_mixup",
-            "stars": 493
+            "stars": 493,
+            "topics": [
+              "data-augumentation",
+              "deep-learning",
+              "deep-neural-networks",
+              "icml2019",
+              "pytorch",
+              "regularization",
+              "supervised-learning",
+              "supervised-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -160,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables",
+            "homepage": null,
             "id": 184609434,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-14T17:03:58Z",
+            "open_issues": 4,
             "owner": "fhkingma",
             "repo": "bitswap",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -176,12 +235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 150232395,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-22T08:34:45Z",
+            "open_issues": 2,
             "owner": "bits-back",
             "repo": "bits-back",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -192,12 +256,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for reproducing Flow ++ experiments",
+            "homepage": null,
             "id": 151184008,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-27T21:40:11Z",
+            "open_issues": 4,
             "owner": "aravindsrinivas",
             "repo": "flowpp",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "deep-learning",
+              "density-estimation",
+              "generative-models",
+              "neural-networks",
+              "normalizing-flows",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -208,12 +284,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 144337311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-05T11:47:53Z",
+            "open_issues": 2,
             "owner": "riannevdberg",
             "repo": "sylvester-flows",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "deep-learning",
+              "normalizing-flows",
+              "pytorch",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -224,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 186536215,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-06-24T15:35:16Z",
+            "open_issues": 1,
             "owner": "iffsid",
             "repo": "disentangling-disentanglement",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -240,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer\"",
+            "homepage": null,
             "id": 152444853,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-03T02:33:15Z",
+            "open_issues": 5,
             "owner": "oripress",
             "repo": "ContentDisentanglement",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -256,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAE: Mutual Posterior-Divergence Regularization for Variational AutoEncoders",
+            "homepage": null,
             "id": 144875316,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-30T20:54:41Z",
+            "open_issues": 1,
             "owner": "XuezheMax",
             "repo": "mae",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -272,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for ICLR 2019 paper",
+            "homepage": null,
             "id": 169459503,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-06T14:35:11Z",
+            "open_issues": 1,
             "owner": "jlezama",
             "repo": "disentangling-jacobian",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -288,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "disentanglement_lib is an open-source library for research on learning disentangled representations.",
+            "homepage": null,
             "id": 169910003,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-16T02:54:11Z",
+            "open_issues": 22,
             "owner": "google-research",
             "repo": "disentanglement_lib",
-            "stars": 1425
+            "stars": 1425,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -304,12 +415,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 150873535,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-15T04:37:33Z",
+            "open_issues": 11,
             "owner": "daib13",
             "repo": "TwoStageVAE",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "generative-models",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -320,12 +439,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of Disentangling Latent Space for VAE by Label Relevant/Irrelevant Dimensions (CVPR 2019)",
+            "homepage": null,
             "id": 162811279,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-05T09:30:42Z",
+            "open_issues": 4,
             "owner": "ZhilZheng",
             "repo": "Lr-LiVAE",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "generative-model",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -336,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for paper \"Disentangled Representation Learning for 3D Face Shape\" CVPR 2019",
+            "homepage": null,
             "id": 172825444,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-09-21T12:10:28Z",
+            "open_issues": 7,
             "owner": "zihangJiang",
             "repo": "DR-Learning-for-3D-Face",
-            "stars": 231
+            "stars": 231,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -352,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for Structured Variational Autoencoders",
+            "homepage": null,
             "id": 54422317,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-08-22T20:49:35Z",
+            "open_issues": 12,
             "owner": "mattjj",
             "repo": "svae",
-            "stars": 353
+            "stars": 353,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -368,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository has the pytorch implementation of the paper 'Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders' (CVPR 2019)",
+            "homepage": null,
             "id": 169975162,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-04-06T04:57:41Z",
+            "open_issues": 1,
             "owner": "sbharadwajj",
             "repo": "Generalized-Zero-Shot-Learning-via-Aligned-Variational-Autoencoders",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -384,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of IODINE model",
+            "homepage": null,
             "id": 190651230,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-07T01:53:48Z",
+            "open_issues": 1,
             "owner": "MichaelKevinKelly",
             "repo": "IODINE",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -400,12 +547,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow-based neural network library",
+            "homepage": "https://sonnet.dev/",
             "id": 87067212,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T22:31:42Z",
+            "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9961
+            "stars": 9960,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -416,12 +574,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial Broadcast Decoder Tensorflow Implementation",
+            "homepage": null,
             "id": 174732738,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-11T09:44:12Z",
+            "open_issues": 0,
             "owner": "lukaszbinden",
             "repo": "spatial-broadcast-decoder",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "deep-neural-networks",
+              "representation-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -432,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 103693333,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-25T23:21:31Z",
+            "open_issues": 2,
             "owner": "alexalemi",
             "repo": "vib_demo",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -448,12 +620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"Lagging Inference Networks and Posterior Collapse in Variational Autoencoders\" (ICLR 2019)",
+            "homepage": null,
             "id": 141611362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-12-15T23:54:39Z",
+            "open_issues": 2,
             "owner": "jxhe",
             "repo": "vae-lagging-encoder",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "image-generation",
+              "posterior-collapse",
+              "text-generation",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -464,12 +646,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of the Sliced Wasserstein Autoencoders",
+            "homepage": null,
             "id": 128239560,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-06-06T03:45:54Z",
+            "open_issues": 1,
             "owner": "skolouri",
             "repo": "swae",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "autoencoders",
+              "deep-neural-networks",
+              "generativemodeling",
+              "optimal-transport"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -480,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Differentiable Perturb-and-Parse operator",
+            "homepage": null,
             "id": 163956542,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-03-07T11:56:16Z",
+            "open_issues": 0,
             "owner": "FilippoC",
             "repo": "diffdp",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -496,12 +693,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of \"Variational Autoencoders with Jointly Optimized Latent Dependency Structure\" [ICLR 2019]",
+            "homepage": null,
             "id": 178541442,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-14T13:59:30Z",
+            "open_issues": 1,
             "owner": "ys1998",
             "repo": "vae-latent-structure",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bayesian-network",
+              "iclr2019",
+              "latent-variables",
+              "pytorch",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -512,12 +720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporal Difference Variational Auto-Encoder (TD-VAE) (Implementation in PyTorch)",
+            "homepage": null,
             "id": 162217400,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-20T16:21:14Z",
+            "open_issues": 0,
             "owner": "xqding",
             "repo": "TD-VAE",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -528,12 +741,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras implementation of Representation Learning with Contrastive Predictive Coding",
+            "homepage": null,
             "id": 148802576,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-19T11:19:48Z",
+            "open_issues": 15,
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "contrastive-loss",
+              "deep-learning",
+              "predictive-modeling",
+              "representation-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -544,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transformer-Based Conditioned Variational Autoencoder for Story Completion",
+            "homepage": null,
             "id": 186565282,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-18T12:11:32Z",
+            "open_issues": 2,
             "owner": "sodawater",
             "repo": "T-CVAE",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -560,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D-VAE: A Variational Autoencoder for Directed Acyclic Graphs, NeurIPS 2019",
+            "homepage": null,
             "id": 186522270,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-23T02:58:25Z",
+            "open_issues": 3,
             "owner": "muhanzhang",
             "repo": "D-VAE",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -582,12 +816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of AVF",
+            "homepage": null,
             "id": 101767579,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-02T17:22:25Z",
+            "open_issues": 0,
             "owner": "joelouismarino",
             "repo": "amortized-variational-filtering",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -598,12 +837,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Sequential Attend, Infer, Repeat (SQAIR)",
+            "homepage": null,
             "id": 135168077,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-09T11:34:42Z",
+            "open_issues": 1,
             "owner": "akosiorek",
             "repo": "sqair",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "approximate-inference",
+              "detection",
+              "generative",
+              "iwae",
+              "motion",
+              "representations-learning",
+              "sqair",
+              "tracking",
+              "vae",
+              "variational-inference",
+              "vimco"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -614,12 +870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ECCV2018 paper: \"Interpretable Intuitive Physics Model\"",
+            "homepage": null,
             "id": 146643492,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-26T21:00:28Z",
+            "open_issues": 1,
             "owner": "tianye95",
             "repo": "interpretable-intuitive-physics-model",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -630,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments for the Neural Autoregressive Flows paper",
+            "homepage": null,
             "id": 127345106,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-10T19:55:23Z",
+            "open_issues": 2,
             "owner": "CW-Huang",
             "repo": "NAF",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -646,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 152910963,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-04-26T04:30:10Z",
+            "open_issues": 0,
             "owner": "ermongroup",
             "repo": "BiasAndGeneralization",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -662,12 +933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Memory Encoder-Decoder",
+            "homepage": null,
             "id": 153397536,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-30T00:50:35Z",
+            "open_issues": 0,
             "owner": "thaihungle",
             "repo": "VMED",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -678,12 +954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Invariant Rep. Without Adversaries (NIPS 2018)",
+            "homepage": null,
             "id": 159866507,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-12-11T16:26:46Z",
+            "open_issues": 1,
             "owner": "dcmoyer",
             "repo": "inv-rep",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -694,12 +975,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stochastic Adversarial Video Prediction",
+            "homepage": "https://alexlee-gk.github.io/video_prediction/",
             "id": 115150549,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-08T13:52:28Z",
+            "open_issues": 25,
             "owner": "alexlee-gk",
             "repo": "video_prediction",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "adversarial",
+              "gan",
+              "generative-adversarial-network",
+              "stochastic",
+              "vae",
+              "vae-gan",
+              "variational-autoencoder",
+              "video-generation",
+              "video-prediction"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -710,12 +1006,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Attention for Sequence to Sequence Models",
+            "homepage": null,
             "id": 122430611,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-03-02T00:15:12Z",
+            "open_issues": 2,
             "owner": "variational-attention",
             "repo": "tf-var-attention",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -726,12 +1027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " This repository contains the code for the paper: Disentangling Factors of Variation with Cycle-Consistent Variational Auto-encoders (https://arxiv.org/abs/1804.10469), which was accepted at ECCV 2018.",
+            "homepage": null,
             "id": 141329481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-09-13T10:46:44Z",
+            "open_issues": 2,
             "owner": "ananyahjha93",
             "repo": "cycle-consistent-vae",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -742,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quantitative evaluation of disentangled representations",
+            "homepage": null,
             "id": 117472646,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-03-18T12:45:20Z",
+            "open_issues": 0,
             "owner": "cianeastwood",
             "repo": "qedr",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -758,12 +1069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model implementation and trained network for \"A Two-Step Disentanglement Method\" by Naama Hadad, Lior Wolf and Moni Shahar",
+            "homepage": null,
             "id": 118510548,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-21T07:37:12Z",
+            "open_issues": 2,
             "owner": "naamahadad",
             "repo": "A-Two-Step-Disentanglement-Method",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -774,12 +1090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 151453965,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-01-28T16:07:09Z",
+            "open_issues": 1,
             "owner": "denproc",
             "repo": "Taming-VAEs",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -790,12 +1111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch Implementation for paper:  IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis",
+            "homepage": null,
             "id": 160486210,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-12-10T04:12:26Z",
+            "open_issues": 2,
             "owner": "dragen1860",
             "repo": "IntroVAE-Pytorch",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -806,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information Constraints on Auto-Encoding Variational Bayes",
+            "homepage": null,
             "id": 134728260,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-05-24T15:11:37Z",
+            "open_issues": 1,
             "owner": "romain-lopez",
             "repo": "HCV",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -822,12 +1153,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation :star2:",
+            "homepage": null,
             "id": 132538308,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-04-02T01:46:48Z",
+            "open_issues": 1,
             "owner": "Schlumberger",
             "repo": "joint-vae",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "disentangled-representations",
+              "disentanglement",
+              "generative-models",
+              "gumbel-softmax",
+              "pytorch",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -838,12 +1181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch Implementation of \"Neural Discrete Representation Learning\"",
+            "homepage": null,
             "id": 123313104,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-03-23T17:01:18Z",
+            "open_issues": 3,
             "owner": "1Konny",
             "repo": "VQ-VAE",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "deep-learning",
+              "pytorch",
+              "vector-quantization",
+              "vq-vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -854,12 +1207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Autoencoder for Unsupervised and Disentangled Representation Learning of content and motion features in sequential data (Mandt et al.).  ",
+            "homepage": null,
             "id": 153125299,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-24T13:10:07Z",
+            "open_issues": 6,
             "owner": "yatindandi",
             "repo": "Disentangled-Sequential-Autoencoder",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -870,12 +1228,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CorEx or \"Correlation Explanation\" discovers a hierarchy of informative latent factors. This reference implementation has been superseded by other versions below.",
+            "homepage": null,
             "id": 25043136,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2017-06-02T17:29:28Z",
+            "open_issues": 3,
             "owner": "gregversteeg",
             "repo": "CorEx",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "information-theory",
+              "machine-learning",
+              "python",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -886,12 +1254,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lagrangian VAE",
+            "homepage": null,
             "id": 135194357,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-27T18:52:37Z",
+            "open_issues": 0,
             "owner": "ermongroup",
             "repo": "lagvae",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "generative-adversarial-network",
+              "tensorflow",
+              "variational-autoencoder",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -902,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Demonstration of Jackknife Variational Inference for Variational Autoencoders, related to ICLR 2018 paper.",
+            "homepage": null,
             "id": 122321796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-21T10:36:33Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "jackknife-variational-inference",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -918,12 +1301,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation for Interpretable Dialog Generation ACL 2018,  It is released by Tiancheng Zhao (Tony) from Dialog Research Center, LTI, CMU ",
+            "homepage": "http://www.cs.cmu.edu/~tianchez/",
             "id": 130536029,
             "language": "OpenEdge ABL",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-14T18:21:23Z",
+            "open_issues": 4,
             "owner": "snakeztc",
             "repo": "NeuralDialog-LAED",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "acl-2018",
+              "di-vae",
+              "di-vst",
+              "dialogue-systems",
+              "discrete-variational-autoencoders",
+              "mutual-information",
+              "sentence-representation"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -934,12 +1330,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of \"Multimodal Generative Models for Scalable Weakly-Supervised Learning\" (https://arxiv.org/abs/1802.05335)",
+            "homepage": null,
             "id": 123954798,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-17T08:42:46Z",
+            "open_issues": 4,
             "owner": "mhw32",
             "repo": "multimodal-vae-public",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "generative-models",
+              "machine-learning",
+              "multimodal-learning",
+              "variational-autoencoder"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -950,12 +1356,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for reproducing results in \"Glow: Generative Flow with Invertible 1x1 Convolutions\"",
+            "homepage": "https://arxiv.org/abs/1807.03039",
             "id": 137939715,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-23T14:56:11Z",
+            "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3185
+            "stars": 3185,
+            "topics": [
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -966,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for 'Inference Suboptimality in Variational Autoencoders'",
+            "homepage": null,
             "id": 129415196,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-22T21:09:00Z",
+            "open_issues": 0,
             "owner": "chriscremer",
             "repo": "Inference-Suboptimality",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -982,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code to reproduce the core results from the paper \"Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks\".",
+            "homepage": null,
             "id": 90971161,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-04-13T12:17:31Z",
+            "open_issues": 3,
             "owner": "LMescheder",
             "repo": "AdversarialVariationalBayes",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -998,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 116478481,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-09T19:47:28Z",
+            "open_issues": 3,
             "owner": "harvardnlp",
             "repo": "sa-vae",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1014,12 +1442,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for EMNLP18 paper \"Spherical Latent Spaces for Stable Variational Autoencoders\"",
+            "homepage": null,
             "id": 123479441,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-12T14:19:17Z",
+            "open_issues": 5,
             "owner": "jiacheng-xu",
             "repo": "vmf_vae_nlp",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "nlp",
+              "pytorch",
+              "vae",
+              "von-mises-fisher"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1030,12 +1468,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of Hyperspherical Variational Auto-Encoders",
+            "homepage": "http://arxiv.org/abs/1804.00891",
             "id": 126718785,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-01T16:20:21Z",
+            "open_issues": 1,
             "owner": "nicola-decao",
             "repo": "s-vae-tf",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "deep-learning",
+              "hyperspherical-vae",
+              "machine-learning",
+              "manifold-learning",
+              "tensorflow",
+              "vae",
+              "variational-autoencoder",
+              "von-mises-fisher"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1046,12 +1498,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017",
+            "homepage": null,
             "id": 96935397,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-01T13:06:07Z",
+            "open_issues": 11,
             "owner": "facebookresearch",
             "repo": "FaderNetworks",
-            "stars": 760
+            "stars": 760,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1062,12 +1519,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Multivariate Gaussian distributions for Tensorflow.",
+            "homepage": null,
             "id": 173166605,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-01-29T12:12:18Z",
+            "open_issues": 0,
             "owner": "Gara-Dorta",
             "repo": "tf_mvg",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "gaussian",
+              "multivariate",
+              "probability",
+              "tensorflow",
+              "uncertainty"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1078,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis\"",
+            "homepage": null,
             "id": 117158472,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-02-24T22:43:39Z",
+            "open_issues": 1,
             "owner": "samuela",
             "repo": "oi-vae",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1094,12 +1567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github page for the preprint paper \"InfoCatVAE: Representation Learning with Categorical Variational Autoencoders\"",
+            "homepage": null,
             "id": 137719342,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-23T06:23:48Z",
+            "open_issues": 0,
             "owner": "edouardpineau",
             "repo": "infoCatVAE",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1110,12 +1588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of iterative inference in deep latent variable models",
+            "homepage": null,
             "id": 97247218,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-21T18:08:37Z",
+            "open_issues": 1,
             "owner": "joelouismarino",
             "repo": "iterative_inference",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1126,12 +1609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning diverse image-to-image translation from unpaired data",
+            "homepage": null,
             "id": 126752958,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-05T02:33:28Z",
+            "open_issues": 30,
             "owner": "HsinYingLee",
             "repo": "DRIT",
-            "stars": 856
+            "stars": 856,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1142,12 +1630,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pioneer Networks: Progressively Growing Generative Autoencoder",
+            "homepage": "https://aaltovision.github.io/pioneer/",
             "id": 151309199,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-05-29T11:01:34Z",
+            "open_issues": 0,
             "owner": "AaltoVision",
             "repo": "pioneer",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1158,12 +1651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Deep Disentangled Embeddings with the F-Statistic Loss (NIPS 2018)",
+            "homepage": null,
             "id": 153506703,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-10-17T22:54:39Z",
+            "open_issues": 0,
             "owner": "kridgeway",
             "repo": "f-statistic-loss-nips-2018",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1174,12 +1672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wasserstein Auto-Encoders",
+            "homepage": null,
             "id": 110233004,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-06-28T09:02:27Z",
+            "open_issues": 7,
             "owner": "tolstikhin",
             "repo": "wae",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1190,12 +1693,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 113732837,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-20T15:06:54Z",
+            "open_issues": 0,
             "owner": "pclucas14",
             "repo": "aux-vae",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1206,12 +1714,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images",
+            "homepage": "https://openreview.net/pdf?id=rkX1FF_UM",
             "id": 110775806,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-04-26T08:17:14Z",
+            "open_issues": 3,
             "owner": "Prinsphield",
             "repo": "DNA-GAN",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "disentangled-representations",
+              "generative-adversarial-network",
+              "image-manipulation",
+              "multi-attribute",
+              "representation-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1222,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replication code for the article \"Learning Functional Causal Models with Generative Neural Networks\"",
+            "homepage": null,
             "id": 101337015,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-03T10:08:43Z",
+            "open_issues": 2,
             "owner": "GoudetOlivier",
             "repo": "CGNN",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1238,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models\", AAAI 2018.",
+            "homepage": null,
             "id": 102805984,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-01-13T16:21:21Z",
+            "open_issues": 2,
             "owner": "ermongroup",
             "repo": "flow-gan",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1254,12 +1783,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CIKM'18 paper, Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects.",
+            "homepage": null,
             "id": 143958653,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-15T10:53:33Z",
+            "open_issues": 2,
             "owner": "rguo12",
             "repo": "CIKM18-LCVA",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "causal-inference",
+              "network-embedding",
+              "treatment-effects",
+              "variational-autoencoder",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1270,12 +1810,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytorch implementation of MINE(Mutual Information Neural Estimation)",
+            "homepage": null,
             "id": 158914199,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-03-13T04:43:19Z",
+            "open_issues": 4,
             "owner": "sungyubkim",
             "repo": "MINE-Mutual-Information-Neural-Estimation-",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "generative-model",
+              "mutual-information",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1286,12 +1835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VAEs with Lie Group latent space",
+            "homepage": null,
             "id": 140304876,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-01-20T17:45:53Z",
+            "open_issues": 1,
             "owner": "pimdh",
             "repo": "lie-vae",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -1308,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Causal Effect Inference with Deep Latent-Variable Models",
+            "homepage": null,
             "id": 92983739,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-17T09:35:21Z",
+            "open_issues": 2,
             "owner": "AMLab-Amsterdam",
             "repo": "CEVAE",
-            "stars": 368
+            "stars": 368,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1324,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a pytorch implementation for the paper: Challenges in Disentangling Independent Factors of Variation (https://arxiv.org/abs/1711.02245), which was accepted at ICLR 2018's workshop track.",
+            "homepage": null,
             "id": 142956310,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-31T03:21:06Z",
+            "open_issues": 0,
             "owner": "ananyahjha93",
             "repo": "challenges-in-disentangling",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1340,12 +1904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Probabilistic Torch is library for deep generative models that extends PyTorch",
+            "homepage": null,
             "id": 106852380,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-12T16:54:53Z",
+            "open_issues": 14,
             "owner": "probtorch",
             "repo": "probtorch",
-            "stars": 892
+            "stars": 892,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1356,12 +1925,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of VLAE",
+            "homepage": null,
             "id": 83274054,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-21T20:09:06Z",
+            "open_issues": 1,
             "owner": "ermongroup",
             "repo": "Variational-Ladder-Autoencoder",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "feature-extraction",
+              "generative-model",
+              "representation-learning",
+              "unsupervised-learning",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1372,12 +1952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for : Neural Face Editing with Intrinsic Image Disentangling",
+            "homepage": null,
             "id": 118037592,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-11-24T08:00:31Z",
+            "open_issues": 2,
             "owner": "zhixinshu",
             "repo": "NeuralFaceEditing",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1388,12 +1973,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You can use my code, but I would appreciate it if you provide a link back to my website. Also do not mess up with Google Analytics!",
+            "homepage": "http://tsong.me",
             "id": 32163648,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T16:22:12Z",
+            "open_issues": 9,
             "owner": "jiamings",
             "repo": "tsong.me",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "blog",
+              "deep-learning",
+              "html",
+              "jekyll",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1404,12 +2000,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code to reproduce the core results from the paper \"Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data\"",
+            "homepage": null,
             "id": 103969359,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-30T17:40:27Z",
+            "open_issues": 5,
             "owner": "wnhsu",
             "repo": "FactorizedHierarchicalVAE",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1420,12 +2021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code to reproduce the core results from the paper \"Learning Latent Representations for Speech Generation and Transformation\".",
+            "homepage": null,
             "id": 103448243,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-16T21:19:43Z",
+            "open_issues": 2,
             "owner": "wnhsu",
             "repo": "SpeechVAE",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1436,12 +2042,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of the NIPS 2017 paper - Unsupervised Learning of Disentangled Representations from Video",
+            "homepage": null,
             "id": 133865201,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-17T14:32:00Z",
+            "open_issues": 1,
             "owner": "ap229997",
             "repo": "DRNET",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "adversarial-loss",
+              "disentangled-representations",
+              "drnet",
+              "pytorch",
+              "unsupervised-learning",
+              "video-representation"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1452,12 +2070,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple interface for editing natural photos with generative neural networks.",
+            "homepage": null,
             "id": 68827685,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-03-22T11:38:44Z",
+            "open_issues": 10,
             "owner": "ajbrock",
             "repo": "Neural-Photo-Editor",
-            "stars": 2074
+            "stars": 2074,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "gans",
+              "interfaces",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1468,12 +2098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to train Importance Weighted Autoencoders on MNIST and OMNIGLOT",
+            "homepage": null,
             "id": 42636588,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-09-14T19:11:55Z",
+            "open_issues": 0,
             "owner": "FighterLYL",
             "repo": "iwae",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1484,12 +2119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Real-NVP in Tensorflow",
+            "homepage": null,
             "id": 73517883,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-26T17:04:28Z",
+            "open_issues": 1,
             "owner": "taesungp",
             "repo": "real-nvp",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1500,12 +2140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 79095614,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-21T00:40:43Z",
+            "open_issues": 0,
             "owner": "masa-su",
             "repo": "jmvae",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1516,12 +2161,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Sequential Variational Autoencoder",
+            "homepage": "https://arxiv.org/abs/1702.08658",
             "id": 83278500,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-08-23T01:13:54Z",
+            "open_issues": 0,
             "owner": "ermongroup",
             "repo": "Sequential-Variational-Autoencoder",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "generative-model",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1532,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders",
+            "homepage": "https://arxiv.org/abs/1611.02648",
             "id": 73327965,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-03-04T16:49:50Z",
+            "open_issues": 1,
             "owner": "Nat-D",
             "repo": "GMVAE",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1548,12 +2206,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VAEs on Sparse Data",
+            "homepage": null,
             "id": 73661040,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-10-15T16:52:39Z",
+            "open_issues": 0,
             "owner": "rahulk90",
             "repo": "vae_sparse",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "inference",
+              "sparse-data"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1564,12 +2230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stick Breaking Variational Autoencoder with HDP prior",
+            "homepage": null,
             "id": 107607412,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-29T14:07:47Z",
+            "open_issues": 0,
             "owner": "sporsho",
             "repo": "hdp-vae",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1580,12 +2251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VCCA Pytorch Implementation on MNIST dataset",
+            "homepage": null,
             "id": 127496749,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-04-10T20:56:39Z",
+            "open_issues": 1,
             "owner": "edchengg",
             "repo": "VCCA_pytorch",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1596,12 +2272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Auto-encoder with Non-parametric Bayesian Prior ",
+            "homepage": null,
             "id": 91023516,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-05-18T18:47:58Z",
+            "open_issues": 0,
             "owner": "bobchennan",
             "repo": "VAE_NBP",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1612,12 +2293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 115587991,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-01-22T19:36:54Z",
+            "open_issues": 4,
             "owner": "neocxi",
             "repo": "pixelsnail-public",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1628,12 +2314,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple implementation of \"Improved Variational Inference with Inverse Autoregressive Flow\" paper with pytorch",
+            "homepage": null,
             "id": 103823683,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-25T17:45:20Z",
+            "open_issues": 0,
             "owner": "kefirski",
             "repo": "bdir_vae",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "machine-learning",
+              "mnist",
+              "mnist-generation",
+              "neural-network",
+              "python",
+              "pytorch",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1644,12 +2343,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Adversarial Generator-Encoder Networks\"",
+            "homepage": "https://arxiv.org/abs/1704.02304",
             "id": 87564612,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-28T15:56:34Z",
+            "open_issues": 6,
             "owner": "DmitryUlyanov",
             "repo": "AGE",
-            "stars": 287
+            "stars": 287,
+            "topics": [
+              "gan"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1660,12 +2366,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implement of Disentangled Representation Learning GAN for Pose-Invariant Face Recognition",
+            "homepage": null,
             "id": 134068569,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-24T05:27:38Z",
+            "open_issues": 3,
             "owner": "zhangjunh",
             "repo": "DR-GAN-by-pytorch",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "face",
+              "gan",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1676,12 +2391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 104034863,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-12-18T04:48:58Z",
+            "open_issues": 14,
             "owner": "kayamin",
             "repo": "DR-GAN",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1692,12 +2412,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Improving Variational Auto-Encoders using Householder Flow\" (https://arxiv.org/abs/1611.09630)",
+            "homepage": "https://jmtomczak.github.io/deebmed.html",
             "id": 75183533,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-01-26T09:18:13Z",
+            "open_issues": 2,
             "owner": "jmtomczak",
             "repo": "vae_householder_flow",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "deep-learning",
+              "generative-model",
+              "normalizing-flows",
+              "representation-learning",
+              "variational-autoencoders"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1708,12 +2439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to train Importance Weighted Autoencoders on MNIST and OMNIGLOT",
+            "homepage": null,
             "id": 81378616,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-05-28T17:32:36Z",
+            "open_issues": 0,
             "owner": "geoffreyroeder",
             "repo": "iwae",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1724,12 +2460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational   Learning",
+            "homepage": null,
             "id": 92106679,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-02-02T14:26:46Z",
+            "open_issues": 5,
             "owner": "akashgit",
             "repo": "VEEGAN",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -1746,12 +2487,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Summaries of machine learning papers",
+            "homepage": null,
             "id": 52121440,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-29T17:10:04Z",
+            "open_issues": 5,
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2504
+            "stars": 2504,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "gan",
+              "machine-learning",
+              "nlp",
+              "paper",
+              "summary"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1762,12 +2517,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "implement Deep Feature Consisten Variational Autoencoder in Tensorflow",
+            "homepage": null,
             "id": 142619582,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-24T05:58:10Z",
+            "open_issues": 3,
             "owner": "sbavon",
             "repo": "Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "deep-learning",
+              "dfc-vae",
+              "generative-model",
+              "generative-models",
+              "perceptual-losses",
+              "vae",
+              "variational-autoencoder",
+              "variational-autoencoders"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1778,12 +2547,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Fair Autoencoder  (Research)",
+            "homepage": "https://arxiv.org/pdf/1511.00830.pdf",
             "id": 143560268,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-26T02:54:21Z",
+            "open_issues": 2,
             "owner": "dendisuhubdy",
             "repo": "vfae",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "deep-learning-research"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1794,12 +2570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of Domain Separation Networks",
+            "homepage": null,
             "id": 126550819,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-22T01:22:56Z",
+            "open_issues": 7,
             "owner": "fungtion",
             "repo": "DSN",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1810,12 +2591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a pytorch implementation for the paper: Disentangling factors of variation in deep representations using adversarial training (https://arxiv.org/abs/1611.03383), which was accepted at NIPS 2016.",
+            "homepage": null,
             "id": 144606780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-14T11:11:20Z",
+            "open_issues": 0,
             "owner": "ananyahjha93",
             "repo": "disentangling-factors-of-variation-using-adversarial-training",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1826,12 +2612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "codes for Variational Autoencoder for Semi-supervised Text Classification",
+            "homepage": null,
             "id": 126980789,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-15T14:52:16Z",
+            "open_issues": 1,
             "owner": "wead-hsu",
             "repo": "ssvae",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1842,12 +2633,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reimplementation of Variational Inference with Normalizing Flows (https://arxiv.org/abs/1505.05770)",
+            "homepage": null,
             "id": 126538193,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-09-03T21:09:59Z",
+            "open_issues": 3,
             "owner": "ex4sperans",
             "repo": "variational-inference-with-normalizing-flows",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "density-estimation",
+              "machine-learning",
+              "normalizing-flows",
+              "python",
+              "pytorch",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1858,12 +2661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to train Importance Weighted Autoencoders on MNIST and OMNIGLOT",
+            "homepage": null,
             "id": 42121412,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-01-26T17:19:14Z",
+            "open_issues": 1,
             "owner": "yburda",
             "repo": "iwae",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1874,12 +2682,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stacked What-Where Auto-encoders implementation wiht Tensorflow",
+            "homepage": null,
             "id": 83568040,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-27T19:18:33Z",
+            "open_issues": 1,
             "owner": "yselivonchyk",
             "repo": "Tensorflow_WhatWhereAutoencoder",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "autoencoder",
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "tensorflow",
+              "whatwhere",
+              "wwae"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1890,12 +2711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Variational Autoencoders with Gaussian Mixture Latent Space",
+            "homepage": "http://www.ics.uci.edu/~enalisni/BDL_paper20.pdf",
             "id": 68670715,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-07-07T19:11:11Z",
+            "open_issues": 1,
             "owner": "enalisnick",
             "repo": "mixture_density_VAEs",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1906,12 +2732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep generative models for semi-supervised learning.",
+            "homepage": null,
             "id": 51836251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2016-11-21T11:50:49Z",
+            "open_issues": 4,
             "owner": "larsmaaloee",
             "repo": "auxiliary-deep-generative-models",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1922,12 +2753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the models in \"PixelVAE: A Latent Variable Model for Natural Images\" (https://arxiv.org/abs/1611.05013",
+            "homepage": null,
             "id": 79160756,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-06-29T19:21:07Z",
+            "open_issues": 9,
             "owner": "igul222",
             "repo": "PixelVAE",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1938,12 +2774,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorflow implementation of Adversarial Autoencoders",
+            "homepage": null,
             "id": 143306114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-10T19:09:23Z",
+            "open_issues": 2,
             "owner": "conan7882",
             "repo": "adversarial-autoencoders",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "adversarial-autoencoders",
+              "adversarial-networks",
+              "autoencoder",
+              "semi-supervised-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1954,12 +2801,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "f-GAN Tensorflow f-GAN: Training Generative Neural Samplers Using Variational Divergence Minimization",
+            "homepage": null,
             "id": 134268945,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-09-15T06:26:54Z",
+            "open_issues": 0,
             "owner": "LynnHo",
             "repo": "f-GAN-Tensorflow",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "f-gan",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1970,12 +2825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 96697199,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-07-09T16:41:05Z",
+            "open_issues": 0,
             "owner": "oval-group",
             "repo": "DISCONets",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -1986,12 +2846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code for NIPS15 paper \"Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis\"",
+            "homepage": null,
             "id": 47314132,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-11-21T19:11:34Z",
+            "open_issues": 0,
             "owner": "jimeiyang",
             "repo": "deepRotator",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2002,12 +2867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative image model with learned similarity measures",
+            "homepage": null,
             "id": 46422467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-02-21T10:30:25Z",
+            "open_issues": 13,
             "owner": "andersbll",
             "repo": "autoencoding_beyond_pixels",
-            "stars": 447
+            "stars": 447,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2018,12 +2888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tensorflow implementation of Generating Images with Perceptual Similarity Metrics based on Deep Networks",
+            "homepage": null,
             "id": 102455458,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-09-05T11:43:31Z",
+            "open_issues": 2,
             "owner": "shijx12",
             "repo": "DeepSim",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2034,12 +2909,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for reproducing key results in the paper \"InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets\"",
+            "homepage": "https://arxiv.org/abs/1606.03657",
             "id": 60294215,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-25T08:17:44Z",
+            "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1069
+            "stars": 1069,
+            "topics": [
+              "paper"
+            ]
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -2056,12 +2938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Convolutional Inverse Graphics network (DCIGN) implementation with Tensorflow",
+            "homepage": null,
             "id": 70899583,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-03-26T15:51:51Z",
+            "open_issues": 1,
             "owner": "yselivonchyk",
             "repo": "TensorFlow_DCIGN",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2072,12 +2959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVAE",
+            "homepage": null,
             "id": 88764216,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-04-20T05:27:58Z",
+            "open_issues": 0,
             "owner": "wsjeon",
             "repo": "ConditionalVariationalAutoencoder",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2088,12 +2980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Implementation of \"DRAW: A Recurrent Neural Network For Image Generation\"",
+            "homepage": null,
             "id": 52287518,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-07T08:13:15Z",
+            "open_issues": 8,
             "owner": "ericjang",
             "repo": "draw",
-            "stars": 526
+            "stars": 526,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -2110,12 +3007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replication of Semi-Supervised Learning with Deep Generative Models",
+            "homepage": null,
             "id": 58136759,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-05-05T16:18:34Z",
+            "open_issues": 3,
             "owner": "saemundsson",
             "repo": "semisupervised_vae",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         },
@@ -2126,12 +3028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Generative Models (Chainer)",
+            "homepage": null,
             "id": 99696826,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-10-12T13:42:03Z",
+            "open_issues": 0,
             "owner": "ashwindcruz",
             "repo": "dgm",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
         }
@@ -2140,15 +3047,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:24:01.554Z",
+    "last_updated": "2026-08-29T04:39:42.393Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
+      "homepage": null,
       "id": 201893041,
       "language": null,
+      "license": null,
       "last_commit": "2021-07-11T11:39:21Z",
+      "open_issues": 1,
       "owner": "matthewvowels1",
       "repo": "Awesome-VAEs",
-      "stars": 845
+      "stars": 845,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "disentangled-representations",
+        "disentanglement",
+        "generative-model",
+        "representation-learning",
+        "unsupervised-learning",
+        "vae",
+        "variational-auto-encoder",
+        "variational-autoencoder",
+        "variational-bayes",
+        "variational-inference"
+      ]
     },
     "original_repository_sha": "68e9db54b4b2684343550133fa3ce7436a71d779",
     "enhanced_repository": "enhansome/enhansome-Awesome-VAEs",
