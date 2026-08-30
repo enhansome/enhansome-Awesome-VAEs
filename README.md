@@ -1613,7 +1613,7 @@ Unsupervised discrete sentence representation learning for interpretable neural 
 
 Dual swap disentangling.	Feng, Wang, Ke, Zeng, Tao, Song	<https://papers.nips.cc/paper/7830-dual-swap-disentangling.pdf>
 
-Multimodal generative models for scalable weakly-supervised learning.	Wu, Goodman	<https://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf>	<https://github.com/mhw32/multimodal-vae-public> ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2018-08-17 <https://github.com/panpan2/Multimodal-Variational-Autoencoder> ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2019-02-09
+Multimodal generative models for scalable weakly-supervised learning.	Wu, Goodman	<https://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf>	<https://github.com/mhw32/multimodal-vae-public> ⭐ 168 | 🐛 4 | 🌐 Python | 📅 2018-08-17 <https://github.com/panpan2/Multimodal-Variational-Autoencoder> ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2019-02-09
 
 Do deep generative models know what they don't know?	Nalisnick, Matsukawa, The, Gorur, Lakshminarayanan	<https://arxiv.org/pdf/1810.09136.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

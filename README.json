@@ -1339,7 +1339,7 @@
             "open_issues": 4,
             "owner": "mhw32",
             "repo": "multimodal-vae-public",
-            "stars": 167,
+            "stars": 168,
             "topics": [
               "generative-models",
               "machine-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:08:26.590Z",
+    "last_updated": "2026-08-30T12:48:49.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
