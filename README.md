@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,960 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,962 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1729,7 +1729,7 @@ Multi-level variational autoencoder: learning disentangled representations from 
 
 Neural Face editing with intrinsic image disentangling.	Shu, Yumer, Hadap, Sankavalli, Shechtman, Samaras	<http://openaccess.thecvf.com/content_cvpr_2017/papers/Shu_Neural_Face_Editing_CVPR_2017_paper.pdf>	<https://github.com/zhixinshu/NeuralFaceEditing> ⭐ 40 | 🐛 2 | 🌐 Lua | 📅 2022-11-24
 
-Variational Lossy Autoencoder.	Chen, Kingma, Salimans, Duan, Dhariwal, Schulman, Sutskever, Abbeel	<https://arxiv.org/abs/1611.02731>	<https://github.com/jiamings/tsong.me/blob/master/_posts/reading/2016-11-08-lossy-vae.md> ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-11
+Variational Lossy Autoencoder.	Chen, Kingma, Salimans, Duan, Dhariwal, Schulman, Sutskever, Abbeel	<https://arxiv.org/abs/1611.02731>	<https://github.com/jiamings/tsong.me/blob/master/_posts/reading/2016-11-08-lossy-vae.md> ⭐ 15 | 🐛 9 | 🌐 CSS | 📅 2026-08-31
 
 Unsupervised learning of disentangled and interpretable representations from sequential data.	Hsu, Zhang, Glass	<https://papers.nips.cc/paper/6784-unsupervised-learning-of-disentangled-and-interpretable-representations-from-sequential-data.pdf>	<https://github.com/wnhsu/FactorizedHierarchicalVAE> ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2018-01-30 <https://github.com/wnhsu/ScalableFHVAE> ⭐ 53 | 🐛 4 | 🌐 Python | 📅 2018-04-11
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
