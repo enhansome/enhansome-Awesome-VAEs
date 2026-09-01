@@ -729,7 +729,7 @@
             "open_issues": 0,
             "owner": "xqding",
             "repo": "TD-VAE",
-            "stars": 168,
+            "stars": 167,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:02:24.205Z",
+    "last_updated": "2026-09-01T12:31:49.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
