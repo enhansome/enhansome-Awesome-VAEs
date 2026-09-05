@@ -403,7 +403,7 @@
             "open_issues": 22,
             "owner": "google-research",
             "repo": "disentanglement_lib",
-            "stars": 1425,
+            "stars": 1426,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -556,7 +556,7 @@
             "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9965,
+            "stars": 9966,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -750,7 +750,7 @@
             "open_issues": 15,
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "contrastive-loss",
               "deep-learning",
@@ -1771,7 +1771,7 @@
             "open_issues": 2,
             "owner": "ermongroup",
             "repo": "flow-gan",
-            "stars": 111,
+            "stars": 110,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -2496,7 +2496,7 @@
             "open_issues": 5,
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2504,
+            "stars": 2503,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:05:38.935Z",
+    "last_updated": "2026-09-05T11:14:40.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
@@ -3059,7 +3059,7 @@
       "open_issues": 1,
       "owner": "matthewvowels1",
       "repo": "Awesome-VAEs",
-      "stars": 846,
+      "stars": 847,
       "topics": [
         "awesome-list",
         "deep-learning",

@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,965 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,966 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1422,7 +1422,7 @@ Unsupervised learning of spatiotemporally coherent metrics	Goroshin, Bruna, Tomp
 
 Temporal difference variational auto-encoder.	Gregor, Papamakarios, Besse, Buesing, Weber	<https://arxiv.org/pdf/1806.03107.pdf>	<https://github.com/xqding/TD-VAE> ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2023-02-20
 
-Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 559 | 🐛 15 | 🌐 Python | 📅 2019-06-19
+Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 560 | 🐛 15 | 🌐 Python | 📅 2019-06-19
 
 Representation disentanglement  for multi-task learning with application to fetal ultrasound	Meng, Pawlowski, Rueckert, Kainz	<https://arxiv.org/pdf/1908.07885.pdf>
 
@@ -1673,7 +1673,7 @@ Hamiltonian variational auto-encoder	Caterini, Doucet, Sejdinovic	<https://arxiv
 
 Causal generative neural networks.	Goudet, Kalainathan, Caillou, Guyon, Lopez-Paz, Sebag.	<https://arxiv.org/pdf/1711.08936.pdf>	<https://github.com/GoudetOlivier/CGNN> ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2019-07-03
 
-Flow-GAN: Combining maximum likelihood and adversarial learning in generative models.	Grover, Dhar, Ermon	<https://arxiv.org/pdf/1705.08868.pdf>	<https://github.com/ermongroup/flow-gan> ⭐ 111 | 🐛 2 | 🌐 Python | 📅 2018-01-13
+Flow-GAN: Combining maximum likelihood and adversarial learning in generative models.	Grover, Dhar, Ermon	<https://arxiv.org/pdf/1705.08868.pdf>	<https://github.com/ermongroup/flow-gan> ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2018-01-13
 
 Linked causal variational autoencoder for inferring paired spillover effects.	Rakesh, Guo, Moraffah, Agarwal, Liu	<https://arxiv.org/pdf/1808.03333.pdf>	<https://github.com/rguo12/CIKM18-LCVA> ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2023-01-15
 
@@ -1798,7 +1798,7 @@ A neural representation of sketch drawings.	Ha, Eck	<https://arxiv.org/pdf/1704.
 
 One-shot generalization in deep generative models.  	Rezende, Danihelka, Gregor, Wierstra	<https://arxiv.org/abs/1603.05106>
 
-Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,504 | 🐛 5 | 📅 2020-10-29
+Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,503 | 🐛 5 | 📅 2020-10-29
 
 Deep feature consistent variational autoencoder.	Hou, Shen, Sun, Qiu	<https://arxiv.org/pdf/1610.00291.pdf>	<https://github.com/sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow> ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2018-08-24
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
