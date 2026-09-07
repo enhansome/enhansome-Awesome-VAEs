@@ -1430,7 +1430,7 @@ M$2$VAE - derivation of a multi-modal variational autoencoder objective from the
 
 Predicting visual memory schemas with variational autoencoders.	Kyle-Davidson, Bors, Evans	<https://arxiv.org/pdf/1907.08514.pdf>
 
-T-CVAE: Transformer -based conditioned variational autoencoder for story completion.	Wang, Wan	<https://www.ijcai.org/proceedings/2019/0727.pdf>	<https://github.com/sodawater/T-CVAE> ⭐ 95 | 🐛 2 | 🌐 Python | 📅 2020-07-18
+T-CVAE: Transformer -based conditioned variational autoencoder for story completion.	Wang, Wan	<https://www.ijcai.org/proceedings/2019/0727.pdf>	<https://github.com/sodawater/T-CVAE> ⭐ 94 | 🐛 2 | 🌐 Python | 📅 2020-07-18
 
 PuVAE: A variational autoencoder to purify adversarial examples.	Hwang, Park, Jang, Yoon, Cho	<https://arxiv.org/pdf/1903.00585.pdf>
 
@@ -1541,7 +1541,7 @@ Learning independent causal mechanisms.	Parascandolo, Kilbertus, Rojas-Carulla, 
 
 Emergence of invariance and disentanglement in deep representations.	Achille, Soatto	<https://arxiv.org/pdf/1706.01350.pdf>
 
-Variational memory encoder-decoder.	Le, Tran, Nguyen, Venkatesh	<https://arxiv.org/pdf/1807.09950.pdf>	<https://github.com/thaihungle/VMED> ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2019-05-30
+Variational memory encoder-decoder.	Le, Tran, Nguyen, Venkatesh	<https://arxiv.org/pdf/1807.09950.pdf>	<https://github.com/thaihungle/VMED> ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2019-05-30
 
 Variational autoencoders for collaborative filtering.	Liang, Krishnan, Hoffman, Jebara	<https://arxiv.org/pdf/1802.05814.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

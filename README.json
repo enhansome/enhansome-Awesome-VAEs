@@ -777,7 +777,7 @@
             "open_issues": 2,
             "owner": "sodawater",
             "repo": "T-CVAE",
-            "stars": 95,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -942,7 +942,7 @@
             "open_issues": 0,
             "owner": "thaihungle",
             "repo": "VMED",
-            "stars": 33,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:37:28.657Z",
+    "last_updated": "2026-09-07T13:28:06.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
