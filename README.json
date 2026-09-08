@@ -67,7 +67,7 @@
             "open_issues": 4,
             "owner": "ratschlab",
             "repo": "GP-VAE",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "1Konny",
             "repo": "VQ-VAE",
-            "stars": 94,
+            "stars": 93,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3184,
+            "stars": 3183,
             "topics": [
               "paper"
             ]
@@ -2079,7 +2079,7 @@
             "open_issues": 10,
             "owner": "ajbrock",
             "repo": "Neural-Photo-Editor",
-            "stars": 2074,
+            "stars": 2073,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:28:06.305Z",
+    "last_updated": "2026-09-08T12:06:37.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
@@ -3059,7 +3059,7 @@
       "open_issues": 1,
       "owner": "matthewvowels1",
       "repo": "Awesome-VAEs",
-      "stars": 847,
+      "stars": 846,
       "topics": [
         "awesome-list",
         "deep-learning",

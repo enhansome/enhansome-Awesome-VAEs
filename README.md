@@ -1057,7 +1057,7 @@ Disentangled representation learning with Wasserstein total correlation.	Xiao, W
 
 Wasserstein dependency measure for representation learning. 	Ozair, Lynch, Bengio, van den Oord, Levine, Sermanent	<https://arxiv.org/pdf/1903.11780.pdf>
 
-GP-VAE: deep probabilistic time series imputation.	Fortuin, Baranchuk, Ratsch, Mandt	<https://arxiv.org/pdf/1907.04155.pdf>	<https://github.com/ratschlab/GP-VAE> ⭐ 144 | 🐛 4 | 🌐 Python | 📅 2023-03-24
+GP-VAE: deep probabilistic time series imputation.	Fortuin, Baranchuk, Ratsch, Mandt	<https://arxiv.org/pdf/1907.04155.pdf>	<https://github.com/ratschlab/GP-VAE> ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2023-03-24
 
 Likelihood contribution based multi-scale architecture for generative flows.	Das, Abbeel, Spanos	 <https://arxiv.org/pdf/1908.01686.pdf>
 
@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,966 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,966 | 🐛 43 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1594,7 +1594,7 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 94 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 93 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
@@ -1741,7 +1741,7 @@ Unsupervised learning of disentangled representations from video.	Denton, Birodk
 
 Laplacian pyramid of conditional variational autoencoders.	Dorta, Vicente, Agapito, Campbell, Prince, Simpson	<http://cs.bath.ac.uk/~nc537/papers/cvmp17_LapCVAE.pdf>
 
-Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,074 | 🐛 10 | 🌐 Python | 📅 2017-03-22
+Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,073 | 🐛 10 | 🌐 Python | 📅 2017-03-22
 
 Discrete Variational Autoencoder.	Rolfe	<https://arxiv.org/pdf/1609.02200.pdf>	<https://github.com/QuadrantAI/dvae>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
