@@ -556,7 +556,7 @@
             "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9966,
+            "stars": 9967,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "1Konny",
             "repo": "VQ-VAE",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -2079,7 +2079,7 @@
             "open_issues": 10,
             "owner": "ajbrock",
             "repo": "Neural-Photo-Editor",
-            "stars": 2073,
+            "stars": 2074,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:18:02.924Z",
+    "last_updated": "2026-09-10T12:11:47.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
