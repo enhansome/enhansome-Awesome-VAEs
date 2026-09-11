@@ -1641,7 +1641,7 @@ Iterative Amortized inference.	Marino, Yue, Mandt	<https://arxiv.org/pdf/1807.09
 
 On unifying Deep Generative Models.	Hu, Yang, Salakhutdinov, Xing	<https://arxiv.org/pdf/1706.00550.pdf>
 
-Diverse Image-to-image translation via disentangled representations.	Lee, Tseng, Huang, Singh, Yang	<https://arxiv.org/pdf/1808.00948.pdf>	<https://github.com/HsinYingLee/DRIT> ⭐ 856 | 🐛 30 | 🌐 Python | 📅 2020-08-05
+Diverse Image-to-image translation via disentangled representations.	Lee, Tseng, Huang, Singh, Yang	<https://arxiv.org/pdf/1808.00948.pdf>	<https://github.com/HsinYingLee/DRIT> ⭐ 857 | 🐛 30 | 🌐 Python | 📅 2020-08-05
 
 PIONEER networks: progressively growing generative autoencoder.	Heljakka, Solin, Kannala	<https://arxiv.org/pdf/1807.03026.pdf>	<https://github.com/AaltoVision/pioneer> ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2019-05-29
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

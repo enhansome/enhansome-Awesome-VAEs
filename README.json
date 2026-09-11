@@ -1618,7 +1618,7 @@
             "open_issues": 30,
             "owner": "HsinYingLee",
             "repo": "DRIT",
-            "stars": 856,
+            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:11:47.838Z",
+    "last_updated": "2026-09-11T12:10:13.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
