@@ -556,7 +556,7 @@
             "open_issues": 43,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9967,
+            "stars": 9968,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1750,7 +1750,7 @@
             "open_issues": 2,
             "owner": "GoudetOlivier",
             "repo": "CGNN",
-            "stars": 100,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:34:46.222Z",
+    "last_updated": "2026-09-13T12:41:43.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
