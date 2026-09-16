@@ -424,7 +424,7 @@
             "open_issues": 11,
             "owner": "daib13",
             "repo": "TwoStageVAE",
-            "stars": 239,
+            "stars": 238,
             "topics": [
               "generative-models",
               "vae"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:37:46.486Z",
+    "last_updated": "2026-09-16T12:33:58.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

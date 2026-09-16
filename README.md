@@ -1358,7 +1358,7 @@ Challenging common assumptions in the unsupervised learning of disentangled repr
 
 Variational prototyping encoder: one shot learning with prototypical images.	Kim, Oh, Lee, Pan, Kweon	<http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Variational_Prototyping-Encoder_One-Shot_Learning_With_Prototypical_Images_CVPR_2019_paper.pdf>
 
-Diagnosing and enchanving VAE models (conf and journal paper both available).	Dai, Wipf	<https://arxiv.org/pdf/1903.05789.pdf>	<https://github.com/daib13/TwoStageVAE> ⭐ 239 | 🐛 11 | 🌐 Python | 📅 2019-05-15
+Diagnosing and enchanving VAE models (conf and journal paper both available).	Dai, Wipf	<https://arxiv.org/pdf/1903.05789.pdf>	<https://github.com/daib13/TwoStageVAE> ⭐ 238 | 🐛 11 | 🌐 Python | 📅 2019-05-15
 
 Disentangling latent hands for image synthesis and pose estimation.	Yang, Yao	<http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
