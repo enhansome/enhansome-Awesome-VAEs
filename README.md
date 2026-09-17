@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,970 | 🐛 44 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,803 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,970 | 🐛 44 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1653,7 +1653,7 @@ Learning deep disentangled embeddings with F-statistic loss.	Ridgeway, Mozer	<ht
 
 Learning latent subspaces in variational  autoencoders.	Klys, Snell, Zemel	<https://arxiv.org/pdf/1812.06190.pdf>
 
-On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 512 | 🐛 7 | 🌐 Python | 📅 2018-06-28
+On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 511 | 🐛 7 | 🌐 Python | 📅 2018-06-28
 
 Learning disentangled representations with Wasserstein auto-encoders.	Rubenstein, Scholkopf, Tolstikhin	<https://openreview.net/pdf?id=Hy79-UJPM>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

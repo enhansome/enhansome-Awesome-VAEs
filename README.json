@@ -1681,7 +1681,7 @@
             "open_issues": 7,
             "owner": "tolstikhin",
             "repo": "wae",
-            "stars": 512,
+            "stars": 511,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:33:58.252Z",
+    "last_updated": "2026-09-17T12:33:53.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
