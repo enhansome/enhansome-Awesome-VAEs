@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3183,
+            "stars": 3182,
             "topics": [
               "paper"
             ]
@@ -2918,7 +2918,7 @@
             "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1069,
+            "stars": 1068,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:33:53.654Z",
+    "last_updated": "2026-09-18T12:12:11.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
