@@ -193,7 +193,7 @@
             "open_issues": 9,
             "owner": "vikasverma1077",
             "repo": "manifold_mixup",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "data-augumentation",
               "deep-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:54:25.438Z",
+    "last_updated": "2026-09-20T12:15:45.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

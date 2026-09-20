@@ -1321,7 +1321,7 @@ ISA-VAE: Independent subspace analysis with variational autoencoders. Anon. <htt
 
 Manifold mixup: better representations by interpolating hidden states. Verma, Lamb, Beckham, Najafi, Mitliagkas, Courville, Lopez-Paz, Bengio.
 <https://arxiv.org/pdf/1806.05236.pdf>
-<https://github.com/vikasverma1077/manifold_mixup> ⭐ 493 | 🐛 9 | 🌐 Python | 📅 2024-03-31
+<https://github.com/vikasverma1077/manifold_mixup> ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31
 
 Bit-swap: recursive bits-back coding for lossless compression with hierarchical latent variables. Kingma, Abbeel, Ho. <http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf>
 <https://github.com/fhkingma/bitswap> ⭐ 272 | 🐛 4 | 🌐 Python | 📅 2023-01-14
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
