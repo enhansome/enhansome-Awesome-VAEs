@@ -2496,7 +2496,7 @@
             "open_issues": 5,
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2503,
+            "stars": 2504,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:59:19.686Z",
+    "last_updated": "2026-09-22T12:33:19.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
