@@ -1741,7 +1741,7 @@ Unsupervised learning of disentangled representations from video.	Denton, Birodk
 
 Laplacian pyramid of conditional variational autoencoders.	Dorta, Vicente, Agapito, Campbell, Prince, Simpson	<http://cs.bath.ac.uk/~nc537/papers/cvmp17_LapCVAE.pdf>
 
-Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,074 | 🐛 10 | 🌐 Python | 📅 2017-03-22
+Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,075 | 🐛 10 | 🌐 Python | 📅 2017-03-22
 
 Discrete Variational Autoencoder.	Rolfe	<https://arxiv.org/pdf/1609.02200.pdf>	<https://github.com/QuadrantAI/dvae>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

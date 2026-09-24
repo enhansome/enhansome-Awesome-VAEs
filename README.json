@@ -2079,7 +2079,7 @@
             "open_issues": 10,
             "owner": "ajbrock",
             "repo": "Neural-Photo-Editor",
-            "stars": 2074,
+            "stars": 2075,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:43:08.500Z",
+    "last_updated": "2026-09-24T12:41:34.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
