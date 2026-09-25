@@ -1671,7 +1671,7 @@ Normalizing flows.	Kosiorek	<http://akosiorek.github.io/ml/2018/04/03/norm_flows
 
 Hamiltonian variational auto-encoder	Caterini, Doucet, Sejdinovic	<https://arxiv.org/pdf/1805.11328.pdf>
 
-Causal generative neural networks.	Goudet, Kalainathan, Caillou, Guyon, Lopez-Paz, Sebag.	<https://arxiv.org/pdf/1711.08936.pdf>	<https://github.com/GoudetOlivier/CGNN> ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2019-07-03
+Causal generative neural networks.	Goudet, Kalainathan, Caillou, Guyon, Lopez-Paz, Sebag.	<https://arxiv.org/pdf/1711.08936.pdf>	<https://github.com/GoudetOlivier/CGNN> ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2019-07-03
 
 Flow-GAN: Combining maximum likelihood and adversarial learning in generative models.	Grover, Dhar, Ermon	<https://arxiv.org/pdf/1705.08868.pdf>	<https://github.com/ermongroup/flow-gan> ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2018-01-13
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

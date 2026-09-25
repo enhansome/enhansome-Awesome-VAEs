@@ -1750,7 +1750,7 @@
             "open_issues": 2,
             "owner": "GoudetOlivier",
             "repo": "CGNN",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:41:34.818Z",
+    "last_updated": "2026-09-25T12:43:34.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
