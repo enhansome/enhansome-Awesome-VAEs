@@ -1594,7 +1594,7 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 94 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 95 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
