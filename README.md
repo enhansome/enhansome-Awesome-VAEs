@@ -1299,7 +1299,7 @@ Understanding posterior collapse in generative latent variable models.	Lucas, Tu
 
 On the transfer of inductive bias from simulation to the real world: a new disentanglement dataset.	Gondal, Wuthrich, Miladinovic, Locatello, Breidt, Volchkv, Akpo, Bachem, Scholkopf, Bauer	<https://arxiv.org/pdf/1906.03292.pdf>	<https://github.com/rr-learning/disentanglement_dataset> ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2025-04-17
 
-DIVA: domain invariant variational autoencoder.	Ilse, Tomczak, Louizos, Welling	<https://arxiv.org/pdf/1905.10427.pdf>	<https://github.com/AMLab-Amsterdam/DIVA> ⭐ 107 | 🐛 5 | 🌐 Python | 📅 2019-11-22
+DIVA: domain invariant variational autoencoder.	Ilse, Tomczak, Louizos, Welling	<https://arxiv.org/pdf/1905.10427.pdf>	<https://github.com/AMLab-Amsterdam/DIVA> ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2019-11-22
 
 Comment: Variational Autoencoders as empirical Bayes.	Wang, Miller, Blei	<http://www.stat.columbia.edu/~yixinwang/papers/WangMillerBlei2019.pdf>
 
@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,971 | 🐛 44 | 🌐 Python | 📅 2026-07-07 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,805 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,970 | 🐛 44 | 🌐 Python | 📅 2026-09-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,805 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1627,7 +1627,7 @@ Semi-amortized variational autoencoders.	Kim, Wiseman, Miller, Sontag, Rush	<htt
 
 Spherical Latent Spaces for stable variational autoencoders.	Xu, Durrett	<https://arxiv.org/pdf/1808.10805.pdf>	<https://github.com/jiacheng-xu/vmf_vae_nlp> ⭐ 172 | 🐛 5 | 🌐 Python | 📅 2018-12-12
 
-Hyperspherical variational auto-encoders.	Davidson, Falorsi, De Cao, Kipf, Tomczak	<https://arxiv.org/pdf/1804.00891.pdf>	<https://github.com/nicola-decao/s-vae-tf> ⭐ 240 | 🐛 1 | 🌐 Python | 📅 2018-12-01 <https://github.com/nicola-decao/s-vae-pytorch> ⭐ 392 | 🐛 1 | 🌐 Python | 📅 2020-03-21
+Hyperspherical variational auto-encoders.	Davidson, Falorsi, De Cao, Kipf, Tomczak	<https://arxiv.org/pdf/1804.00891.pdf>	<https://github.com/nicola-decao/s-vae-tf> ⭐ 241 | 🐛 1 | 🌐 Python | 📅 2018-12-01 <https://github.com/nicola-decao/s-vae-pytorch> ⭐ 392 | 🐛 1 | 🌐 Python | 📅 2020-03-21
 
 Fader networks: manipulating images by sliding attributes.	Lample, Zeghidour, Usunier, Bordes, Denoyer, Ranzato	<https://arxiv.org/pdf/1706.00409.pdf>	<https://github.com/facebookresearch/FaderNetworks> ⚠️ Archived
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

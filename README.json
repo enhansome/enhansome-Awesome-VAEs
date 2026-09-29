@@ -130,7 +130,7 @@
             "open_issues": 5,
             "owner": "AMLab-Amsterdam",
             "repo": "DIVA",
-            "stars": 107,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -552,11 +552,11 @@
             "id": 87067212,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-07T22:31:42Z",
+            "last_commit": "2026-09-29T09:15:06Z",
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9971,
+            "stars": 9970,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1477,7 +1477,7 @@
             "open_issues": 1,
             "owner": "nicola-decao",
             "repo": "s-vae-tf",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "deep-learning",
               "hyperspherical-vae",
@@ -2918,7 +2918,7 @@
             "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1068,
+            "stars": 1069,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:20:34.745Z",
+    "last_updated": "2026-09-29T14:00:20.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
