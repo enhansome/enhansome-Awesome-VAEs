@@ -1567,7 +1567,7 @@ Isolating sources of disentanglement in VAEs.	Chen, Li, Grosse, Duvenaud	<https:
 
 VAE with a VampPrior.	Tomczak, Welling	<https://arxiv.org/pdf/1705.07120.pdf>
 
-A Framework for the quantitative evaluation of disentangled representations.	Eastwood, Williams	<https://openreview.net/pdf?id=By-7dz-AZ>	<https://github.com/cianeastwood/qedr> ⭐ 63 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-03-18
+A Framework for the quantitative evaluation of disentangled representations.	Eastwood, Williams	<https://openreview.net/pdf?id=By-7dz-AZ>	<https://github.com/cianeastwood/qedr> ⭐ 62 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-03-18
 
 Recent advances in autoencoder based representation learning.	Tschannen, Bachem, Lucic	<https://arxiv.org/pdf/1812.05069.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
