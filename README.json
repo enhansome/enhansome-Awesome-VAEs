@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Vector quantization-based regularization for autoencoders . Wu, Flierl https://arxiv.org/abs/1905.11062",
-          "description": "https://github.com/AlbertOh90/Soft-VQ-VAE",
+          "description": "AlbertOh90/Soft-VQ-VAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Learning discrete and continuous factors of data via alternating disentanglement. Jeong, Song http://proceedings.mlr.press/v97/jeong19d/jeong19d.pdf",
-          "description": "https://github.com/snu-mllab/DisentanglementICML19",
+          "description": "snu-mllab/DisentanglementICML19",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "GP-VAE: deep probabilistic time series imputation. Fortuin, Baranchuk, Ratsch, Mandt https://arxiv.org/pdf/1907.04155.pdf",
-          "description": "https://github.com/ratschlab/GP-VAE",
+          "description": "ratschlab/GP-VAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Learning deep representations by mutual information estimation and maximization. Hjelm, Fedorov, Lavoie-Marchildon, Grewal, Bachman, Trischler, Bengio https://arxiv.org/pdf/1808.06670.pdf",
-          "description": "https://github.com/rdevon/DIM",
+          "description": "rdevon/DIM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "On the transfer of inductive bias from simulation to the real world: a new disentanglement dataset. Gondal, Wuthrich, Miladinovic, Locatello, Breidt, Volchkv, Akpo, Bachem, Scholkopf, Bauer https://arxiv.org/pdf/1906.03292.pdf",
-          "description": "https://github.com/rr-learning/disentanglement_dataset",
+          "description": "rr-learning/disentanglement_dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "DIVA: domain invariant variational autoencoder. Ilse, Tomczak, Louizos, Welling https://arxiv.org/pdf/1905.10427.pdf",
-          "description": "https://github.com/AMLab-Amsterdam/DIVA",
+          "description": "AMLab-Amsterdam/DIVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "Reweighted expectation maximization. Dieng, Paisley https://arxiv.org/pdf/1906.05850.pdf",
-          "description": "https://github.com/adjidieng/REM",
+          "description": "adjidieng/REM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "Contrastive variational autoencoder enhances salient features. Abid, Zou https://arxiv.org/pdf/1902.04601.pdf",
-          "description": "https://github.com/abidlabs/contrastive_vae",
+          "description": "abidlabs/contrastive_vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "Manifold mixup: better representations by interpolating hidden states. Verma, Lamb, Beckham, Najafi, Mitliagkas, Courville, Lopez-Paz, Bengio. https://arxiv.org/pdf/1806.05236.pdf",
-          "description": "https://github.com/vikasverma1077/manifold_mixup",
+          "description": "vikasverma1077/manifold_mixup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "Bit-swap: recursive bits-back coding for lossless compression with hierarchical latent variables. Kingma, Abbeel, Ho. http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf",
-          "description": "https://github.com/fhkingma/bitswap",
+          "description": "fhkingma/bitswap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "Practical lossless compression with latent variables using bits back coding. Townsend, Bird, Barber. https://arxiv.org/pdf/1901.04866.pdf",
-          "description": "https://github.com/bits-back/bits-back",
+          "description": "bits-back/bits-back",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -252,7 +252,7 @@
         {
           "node_type": "item",
           "title": "Flow++: improving flow-based generative models with variational dequantization and architecture design. Ho, Chen, Srinivas, Duan, Abbeel. https://arxiv.org/pdf/1902.00275.pdf",
-          "description": "https://github.com/aravindsrinivas/flowpp",
+          "description": "aravindsrinivas/flowpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "Sylvester normalizing flows for variational inference. van den Berg, Hasenclever, Tomczak, Welling. https://arxiv.org/pdf/1803.05649.pdf",
-          "description": "https://github.com/riannevdberg/sylvester-flows",
+          "description": "riannevdberg/sylvester-flows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
         {
           "node_type": "item",
           "title": "Disentangling disentanglement in variational autoencoders Mathieu, Rainforth, Siddharth, The, https://arxiv.org/pdf/1812.02833.pdf",
-          "description": "https://github.com/iffsid/disentangling-disentanglement",
+          "description": "iffsid/disentangling-disentanglement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -327,7 +327,7 @@
         {
           "node_type": "item",
           "title": "Emerging disentanglement in auto-encoder based unsupervised image content transfer. Press, Galanti, Benaim, Wolf https://openreview.net/pdf?id=BylE1205Fm",
-          "description": "https://github.com/oripress/ContentDisentanglement",
+          "description": "oripress/ContentDisentanglement",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "MAE: Mutual posterior-divergence regularization for variational autoencoders Ma, Zhou, Hovy https://arxiv.org/pdf/1901.01498.pdf",
-          "description": "https://github.com/XuezheMax/mae",
+          "description": "XuezheMax/mae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,7 +390,7 @@
         {
           "node_type": "item",
           "title": "Challenging common assumptions in the unsupervised learning of disentangled representations. Locatello, Bauer, Lucic, Ratsch, Gelly, Scholkopf, Bachem https://arxiv.org/abs/1811.12359",
-          "description": "https://github.com/google-research/disentanglement_lib/blob/master/README.md",
+          "description": "google-research/disentanglement_lib",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "Diagnosing and enchanving VAE models (conf and journal paper both available). Dai, Wipf https://arxiv.org/pdf/1903.05789.pdf",
-          "description": "https://github.com/daib13/TwoStageVAE",
+          "description": "daib13/TwoStageVAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -435,7 +435,7 @@
         {
           "node_type": "item",
           "title": "Disentangling latent space for VAE by label relevant/irrelvant dimensions. Zheng, Sun https://arxiv.org/pdf/1812.09502.pdf",
-          "description": "https://github.com/ZhilZheng/Lr-LiVAE",
+          "description": "ZhilZheng/Lr-LiVAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -459,7 +459,7 @@
         {
           "node_type": "item",
           "title": "Disentangled Representation learning for 3D face shape. Jiang, Wu, Chen, Zhang https://arxiv.org/pdf/1902.09887.pdf",
-          "description": "https://github.com/zihangJiang/DR-Learning-for-3D-Face",
+          "description": "zihangJiang/DR-Learning-for-3D-Face",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -480,7 +480,7 @@
         {
           "node_type": "item",
           "title": "Preventing posterior collapse with delta-VAEs. Razavi, van den Oord, Poole, Vinyals https://arxiv.org/pdf/1901.03416.pdf",
-          "description": "https://github.com/mattjj/svae",
+          "description": "mattjj/svae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -501,7 +501,7 @@
         {
           "node_type": "item",
           "title": "Generalized zero- and few-shot learning via aligned variational autoencoders. Schonfeld, Ebrahimi, Sinha, Darrell, Akata https://arxiv.org/pdf/1812.01784.pdf",
-          "description": "https://github.com/chichilicious/Generalized-Zero-Shot-Learning-via-Aligned-Variational-Autoencoders",
+          "description": "sbharadwajj/Generalized-Zero-Shot-Learning-via-Aligned-Variational-Autoencoders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -522,7 +522,7 @@
         {
           "node_type": "item",
           "title": "Multi-object representation learning with iterative variational inference. Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner https://arxiv.org/pdf/1903.00450.pdf",
-          "description": "https://github.com/MichaelKevinKelly/IODINE",
+          "description": "MichaelKevinKelly/IODINE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,7 +570,7 @@
         {
           "node_type": "item",
           "title": "Spatial Broadcast Decoder: A simple architecture for learning disentangled representations in VAEs. Watters, Matthey, Burgess, Lerchner https://arxiv.org/pdf/1901.07017.pdf",
-          "description": "https://github.com/lukaszbinden/spatial-broadcast-decoder",
+          "description": "lukaszbinden/spatial-broadcast-decoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -595,7 +595,7 @@
         {
           "node_type": "item",
           "title": "Deep variational information bottleneck. Aelmi, Fischer, Dillon, Murphy https://arxiv.org/pdf/1612.00410.pdf",
-          "description": "https://github.com/alexalemi/vib_demo",
+          "description": "alexalemi/vib_demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -616,7 +616,7 @@
         {
           "node_type": "item",
           "title": "Lagging inference networks and posterior collapse in variational autoencoders. He, Spokoyny, Neubig, Berg-Kirkpatrick https://arxiv.org/pdf/1901.05534.pdf",
-          "description": "https://github.com/jxhe/vae-lagging-encoder",
+          "description": "jxhe/vae-lagging-encoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -642,7 +642,7 @@
         {
           "node_type": "item",
           "title": "Sliced-Wasserstein auto-encoders. Kolouri, Pope, Martin, Rohde https://openreview.net/pdf?id=H1xaJn05FQ",
-          "description": "https://github.com/skolouri/swae",
+          "description": "skolouri/swae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,7 +668,7 @@
         {
           "node_type": "item",
           "title": "Differentiable perturb-and-parse semi-supervised parsing with a structured variational autoencoder. Corro, Titov https://openreview.net/pdf?id=BJlgNh0qKQ",
-          "description": "https://github.com/FilippoC/diffdp",
+          "description": "FilippoC/diffdp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -689,7 +689,7 @@
         {
           "node_type": "item",
           "title": "Variational autoencoders with jointly optimized latent dependency structure. He, Gong, Marino, Mori, Lehrmann https://openreview.net/pdf?id=SJgsCjCqt7",
-          "description": "https://github.com/ys1998/vae-latent-structure",
+          "description": "ys1998/vae-latent-structure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -716,7 +716,7 @@
         {
           "node_type": "item",
           "title": "Temporal difference variational auto-encoder. Gregor, Papamakarios, Besse, Buesing, Weber https://arxiv.org/pdf/1806.03107.pdf",
-          "description": "https://github.com/xqding/TD-VAE",
+          "description": "xqding/TD-VAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -737,7 +737,7 @@
         {
           "node_type": "item",
           "title": "Representation learning with contrastive predictive coding. van den Oord, Li, Vinyals https://arxiv.org/pdf/1807.03748.pdf",
-          "description": "https://github.com/davidtellez/contrastive-predictive-coding",
+          "description": "davidtellez/contrastive-predictive-coding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -764,7 +764,7 @@
         {
           "node_type": "item",
           "title": "T-CVAE: Transformer -based conditioned variational autoencoder for story completion. Wang, Wan https://www.ijcai.org/proceedings/2019/0727.pdf",
-          "description": "https://github.com/sodawater/T-CVAE",
+          "description": "sodawater/T-CVAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -785,7 +785,7 @@
         {
           "node_type": "item",
           "title": "D-VAE: A variational autoencoder for directed acyclic graphs. Zhang, Jiang, Cui, Garnett, Chen https://arxiv.org/abs/1904.11088",
-          "description": "https://github.com/muhanzhang/D-VAE",
+          "description": "muhanzhang/D-VAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,7 +812,7 @@
         {
           "node_type": "item",
           "title": "A general method for amortizing variational filtering. Marino, Cvitkovic, Yue https://arxiv.org/pdf/1811.05090.pdf",
-          "description": "https://github.com/joelouismarino/amortized-variational-filtering",
+          "description": "joelouismarino/amortized-variational-filtering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,7 +866,7 @@
         {
           "node_type": "item",
           "title": "Interpretable intuitive physics model. Ye, Wang, Davidson, Gupta https://arxiv.org/pdf/1808.10002.pdf",
-          "description": "https://github.com/tianye95/interpretable-intuitive-physics-model",
+          "description": "tianye95/interpretable-intuitive-physics-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,7 +929,7 @@
         {
           "node_type": "item",
           "title": "Variational memory encoder-decoder. Le, Tran, Nguyen, Venkatesh https://arxiv.org/pdf/1807.09950.pdf",
-          "description": "https://github.com/thaihungle/VMED",
+          "description": "thaihungle/VMED",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,7 +950,7 @@
         {
           "node_type": "item",
           "title": "Invariant representations without adversarial training. Moyer, Gao, Brekelmans, Steeg, Galstyan http://papers.nips.cc/paper/8122-invariant-representations-without-adversarial-training.pdf",
-          "description": "https://github.com/dcmoyer/inv-rep",
+          "description": "dcmoyer/inv-rep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -971,7 +971,7 @@
         {
           "node_type": "item",
           "title": "Stochastic variational video prediction. Babaeizadeh, Finn, Erhan, Campbell, Levine https://arxiv.org/pdf/1710.11252.pdf",
-          "description": "https://github.com/alexlee-gk/video_prediction",
+          "description": "alexlee-gk/video_prediction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1002,7 +1002,7 @@
         {
           "node_type": "item",
           "title": "Variational attention for sequence-to-sequence models. Bahuleyan, Mou, Vechtomova, Poupart https://arxiv.org/pdf/1712.08207.pdf",
-          "description": "https://github.com/variational-attention/tf-var-attention",
+          "description": "variational-attention/tf-var-attention",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1023,7 +1023,7 @@
         {
           "node_type": "item",
           "title": "Disentangling factors of variation with cycle-consistent variational autoencoders. Jha, Anand, Singh, Veeravasarapu https://arxiv.org/pdf/1804.10469.pdf",
-          "description": "https://github.com/ananyahjha93/cycle-consistent-vae",
+          "description": "ananyahjha93/cycle-consistent-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +1044,7 @@
         {
           "node_type": "item",
           "title": "A Framework for the quantitative evaluation of disentangled representations. Eastwood, Williams https://openreview.net/pdf?id=By-7dz-AZ",
-          "description": "https://github.com/cianeastwood/qedr",
+          "description": "cianeastwood/qedr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1065,7 +1065,7 @@
         {
           "node_type": "item",
           "title": "A two-step disentanglement. method Hadad, Wolf, Shahar http://openaccess.thecvf.com/content_cvpr_2018/papers/Hadad_A_Two-Step_Disentanglement_CVPR_2018_paper.pdf",
-          "description": "https://github.com/naamahadad/A-Two-Step-Disentanglement-Method",
+          "description": "naamahadad/A-Two-Step-Disentanglement-Method",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1107,7 +1107,7 @@
         {
           "node_type": "item",
           "title": "IntroVAE Introspective variational autoencoders for photographic image synthesis. Huang, Li, He, Sun, Tan https://arxiv.org/pdf/1807.06358.pdf",
-          "description": "https://github.com/dragen1860/IntroVAE-Pytorch",
+          "description": "dragen1860/IntroVAE-Pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1128,7 @@
         {
           "node_type": "item",
           "title": "Information constraints on auto-encoding variational bayes. Lopez, Regier, Jordan, Yosef https://papers.nips.cc/paper/7850-information-constraints-on-auto-encoding-variational-bayes.pdf",
-          "description": "https://github.com/romain-lopez/HCV",
+          "description": "romain-lopez/HCV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1149,7 +1149,7 @@
         {
           "node_type": "item",
           "title": "Learning disentangled joint continuous and discrete representations. Dupont https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf",
-          "description": "https://github.com/Schlumberger/joint-vae",
+          "description": "Schlumberger/joint-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1203,7 +1203,7 @@
         {
           "node_type": "item",
           "title": "Disentangled sequential autoencoder. Li, Mandt https://arxiv.org/abs/1803.02991",
-          "description": "https://github.com/yatindandi/Disentangled-Sequential-Autoencoder",
+          "description": "yatindandi/Disentangled-Sequential-Autoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1250,7 +1250,7 @@
         {
           "node_type": "item",
           "title": "The information autoencoding family: a lagrangian perspective on latent variable generative models. Zhao, Song, Ermon https://arxiv.org/pdf/1806.06514.pdf",
-          "description": "https://github.com/ermongroup/lagvae",
+          "description": "ermongroup/lagvae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1276,7 +1276,7 @@
         {
           "node_type": "item",
           "title": "Debiasing evidence approximations: on importance-weighted autoencoders and jackknife variational inference. Nowozin https://openreview.net/pdf?id=HyZoi-WRb",
-          "description": "https://github.com/microsoft/jackknife-variational-inference",
+          "description": "microsoft/jackknife-variational-inference",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "Inference suboptimality in variational autoencoders. Cremer, Li, Duvenaud https://arxiv.org/pdf/1801.03558.pdf",
-          "description": "https://github.com/chriscremer/Inference-Suboptimality",
+          "description": "chriscremer/Inference-Suboptimality",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1396,7 +1396,7 @@
         {
           "node_type": "item",
           "title": "Adversarial Variational Bayes: unifying variational autoencoders and generative adversarial networks. Mescheder, Mowozin, Geiger https://arxiv.org/pdf/1701.04722.pdf",
-          "description": "https://github.com/LMescheder/AdversarialVariationalBayes",
+          "description": "LMescheder/AdversarialVariationalBayes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1417,7 +1417,7 @@
         {
           "node_type": "item",
           "title": "Semi-amortized variational autoencoders. Kim, Wiseman, Miller, Sontag, Rush https://arxiv.org/pdf/1802.02550.pdf",
-          "description": "https://github.com/harvardnlp/sa-vae",
+          "description": "harvardnlp/sa-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1438,7 +1438,7 @@
         {
           "node_type": "item",
           "title": "Spherical Latent Spaces for stable variational autoencoders. Xu, Durrett https://arxiv.org/pdf/1808.10805.pdf",
-          "description": "https://github.com/jiacheng-xu/vmf_vae_nlp",
+          "description": "jiacheng-xu/vmf_vae_nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1494,7 +1494,7 @@
         {
           "node_type": "item",
           "title": "Fader networks: manipulating images by sliding attributes. Lample, Zeghidour, Usunier, Bordes, Denoyer, Ranzato https://arxiv.org/pdf/1706.00409.pdf",
-          "description": "https://github.com/facebookresearch/FaderNetworks",
+          "description": "facebookresearch/FaderNetworks",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1515,7 +1515,7 @@
         {
           "node_type": "item",
           "title": "Training VAEs under structured residuals. Dorta, Vicente, Agapito, Campbell, Prince, Simpson https://arxiv.org/pdf/1804.01050.pdf",
-          "description": "https://github.com/Garoe/tf_mvg",
+          "description": "Gara-Dorta/tf_mvg",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1542,7 +1542,7 @@
         {
           "node_type": "item",
           "title": "oi-VAE: output interpretable VAEs for nonlinear group factor analysis. Ainsworth, Foti, Lee, Fox https://arxiv.org/pdf/1802.06765.pdf",
-          "description": "https://github.com/samuela/oi-vae",
+          "description": "samuela/oi-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1563,7 +1563,7 @@
         {
           "node_type": "item",
           "title": "infoCatVAE: representation learning with categorical variational autoencoders. Lelarge, Pineau https://arxiv.org/pdf/1806.08240.pdf",
-          "description": "https://github.com/edouardpineau/infoCatVAE",
+          "description": "edouardpineau/infoCatVAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1605,7 +1605,7 @@
         {
           "node_type": "item",
           "title": "Diverse Image-to-image translation via disentangled representations. Lee, Tseng, Huang, Singh, Yang https://arxiv.org/pdf/1808.00948.pdf",
-          "description": "https://github.com/HsinYingLee/DRIT",
+          "description": "HsinYingLee/DRIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1626,7 +1626,7 @@
         {
           "node_type": "item",
           "title": "PIONEER networks: progressively growing generative autoencoder. Heljakka, Solin, Kannala https://arxiv.org/pdf/1807.03026.pdf",
-          "description": "https://github.com/AaltoVision/pioneer",
+          "description": "AaltoVision/pioneer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1647,7 +1647,7 @@
         {
           "node_type": "item",
           "title": "Learning deep disentangled embeddings with F-statistic loss. Ridgeway, Mozer https://arxiv.org/pdf/1802.05312.pdf",
-          "description": "https://github.com/kridgeway/f-statistic-loss-nips-2018",
+          "description": "kridgeway/f-statistic-loss-nips-2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1668,7 +1668,7 @@
         {
           "node_type": "item",
           "title": "On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin. https://arxiv.org/pdf/1802.03761.pdf",
-          "description": "https://github.com/tolstikhin/wae",
+          "description": "tolstikhin/wae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1689,7 +1689,7 @@
         {
           "node_type": "item",
           "title": "Auxiliary guided autoregressive variational autoencoders. Lucas, Verkbeek https://openreview.net/pdf?id=HkGcX--0-",
-          "description": "https://github.com/pclucas14/aux-vae",
+          "description": "pclucas14/aux-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1737,7 +1737,7 @@
         {
           "node_type": "item",
           "title": "Causal generative neural networks. Goudet, Kalainathan, Caillou, Guyon, Lopez-Paz, Sebag. https://arxiv.org/pdf/1711.08936.pdf",
-          "description": "https://github.com/GoudetOlivier/CGNN",
+          "description": "GoudetOlivier/CGNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1758,7 +1758,7 @@
         {
           "node_type": "item",
           "title": "Flow-GAN: Combining maximum likelihood and adversarial learning in generative models. Grover, Dhar, Ermon https://arxiv.org/pdf/1705.08868.pdf",
-          "description": "https://github.com/ermongroup/flow-gan",
+          "description": "ermongroup/flow-gan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1779,7 +1779,7 @@
         {
           "node_type": "item",
           "title": "Linked causal variational autoencoder for inferring paired spillover effects. Rakesh, Guo, Moraffah, Agarwal, Liu https://arxiv.org/pdf/1808.03333.pdf",
-          "description": "https://github.com/rguo12/CIKM18-LCVA",
+          "description": "rguo12/CIKM18-LCVA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1831,7 +1831,7 @@
         {
           "node_type": "item",
           "title": "Explorations in homeomorphic variational auto-encoding. Falorsi, de Haan, Davidson, Cao, Weiler, Forre, Cohen. https://arxiv.org/pdf/1807.04689.pdf",
-          "description": "https://github.com/pimdh/lie-vae",
+          "description": "pimdh/lie-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1858,7 +1858,7 @@
         {
           "node_type": "item",
           "title": "Causal effect inference with deep latent variable models. Louizos, Shalit, Mooij, Sontag, Zemel, Welling https://arxiv.org/pdf/1705.08821.pdf",
-          "description": "https://github.com/AMLab-Amsterdam/CEVAE",
+          "description": "AMLab-Amsterdam/CEVAE",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1879,7 +1879,7 @@
         {
           "node_type": "item",
           "title": "Challenges in disentangling independent factors of variation. Szabo, Hu, Portenier, Facaro, Zwicker https://arxiv.org/pdf/1711.02245.pdf",
-          "description": "https://github.com/ananyahjha93/challenges-in-disentangling",
+          "description": "ananyahjha93/challenges-in-disentangling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1900,7 +1900,7 @@
         {
           "node_type": "item",
           "title": "Learning disentangled representations with semi-supervised deep generative models.Siddharth, Paige, van de Meent, Desmaison, Goodman, Kohli, Wood, Torr https://papers.nips.cc/paper/7174-learning-disentangled-representations-with-semi-supervised-deep-generative-models.pdf",
-          "description": "https://github.com/probtorch/probtorch",
+          "description": "probtorch/probtorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1921,7 +1921,7 @@
         {
           "node_type": "item",
           "title": "Learning hierarchical features from generative models. Zhao, Song, Ermon https://arxiv.org/pdf/1702.08396.pdf",
-          "description": "https://github.com/ermongroup/Variational-Ladder-Autoencoder",
+          "description": "ermongroup/Variational-Ladder-Autoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1948,7 +1948,7 @@
         {
           "node_type": "item",
           "title": "Neural Face editing with intrinsic image disentangling. Shu, Yumer, Hadap, Sankavalli, Shechtman, Samaras http://openaccess.thecvf.com/content_cvpr_2017/papers/Shu_Neural_Face_Editing_CVPR_2017_paper.pdf",
-          "description": "https://github.com/zhixinshu/NeuralFaceEditing",
+          "description": "zhixinshu/NeuralFaceEditing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1969,7 +1969,7 @@
         {
           "node_type": "item",
           "title": "Variational Lossy Autoencoder. Chen, Kingma, Salimans, Duan, Dhariwal, Schulman, Sutskever, Abbeel https://arxiv.org/abs/1611.02731",
-          "description": "https://github.com/jiamings/tsong.me/blob/master/_posts/reading/2016-11-08-lossy-vae.md",
+          "description": "jiamings/tsong.me",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2017,7 +2017,7 @@
         {
           "node_type": "item",
           "title": "Learning latent representations for speech generation and transformation. Hsu, Zhang, Glass https://arxiv.org/pdf/1704.04222.pdf",
-          "description": "https://github.com/wnhsu/SpeechVAE",
+          "description": "wnhsu/SpeechVAE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2038,7 +2038,7 @@
         {
           "node_type": "item",
           "title": "Unsupervised learning of disentangled representations from video. Denton, Birodkar https://papers.nips.cc/paper/7028-unsupervised-learning-of-disentangled-representations-from-video.pdf",
-          "description": "https://github.com/ap229997/DRNET",
+          "description": "ap229997/DRNET",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2066,7 +2066,7 @@
         {
           "node_type": "item",
           "title": "Neural Photo Editing with Inrospective Adverarial Networks. Brock, Lim, Ritchie, Weston https://arxiv.org/pdf/1609.07093.pdf",
-          "description": "https://github.com/ajbrock/Neural-Photo-Editor",
+          "description": "ajbrock/Neural-Photo-Editor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2094,7 +2094,7 @@
         {
           "node_type": "item",
           "title": "Reinterpreting importance-weighted autoencoders. Cremer, Morris, Duvenaud https://arxiv.org/pdf/1704.02916.pdf",
-          "description": "https://github.com/FighterLYL/iwae",
+          "description": "FighterLYL/iwae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2157,7 +2157,7 @@
         {
           "node_type": "item",
           "title": "Towards a deeper understanding of variational autoencoding models. Zhao, Song, Ermon https://arxiv.org/pdf/1702.08658.pdf",
-          "description": "https://github.com/ermongroup/Sequential-Variational-Autoencoder",
+          "description": "ermongroup/Sequential-Variational-Autoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2202,7 +2202,7 @@
         {
           "node_type": "item",
           "title": "On the challenges of learning with inference networks on sparse, high-dimensional data. Krishnan, Liang, Hoffman https://arxiv.org/pdf/1710.06085.pdf",
-          "description": "https://github.com/rahulk90/vae_sparse",
+          "description": "rahulk90/vae_sparse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2226,7 +2226,7 @@
         {
           "node_type": "item",
           "title": "Stick-breaking Variational Autoencoder. https://arxiv.org/pdf/1605.06197.pdf",
-          "description": "https://github.com/sporsho/hdp-vae",
+          "description": "sporsho/hdp-vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2247,7 +2247,7 @@
         {
           "node_type": "item",
           "title": "Deep variational canonical correlation analysis. Wang, Yan, Lee, Livescu https://arxiv.org/pdf/1610.03454.pdf",
-          "description": "https://github.com/edchengg/VCCA_pytorch",
+          "description": "edchengg/VCCA_pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2268,7 +2268,7 @@
         {
           "node_type": "item",
           "title": "Nonparametric variational auto-encoders for hierarchical representation learning. Goyal, Hu, Liang, Wang, Xing https://arxiv.org/pdf/1703.07027.pdf",
-          "description": "https://github.com/bobchennan/VAE_NBP/blob/master/report.markdown",
+          "description": "bobchennan/VAE_NBP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2289,7 +2289,7 @@
         {
           "node_type": "item",
           "title": "PixelSNAIL: An improved autoregressive generative model. Chen, Mishra, Rohaninejad, Abbeel https://arxiv.org/pdf/1712.09763.pdf",
-          "description": "https://github.com/neocxi/pixelsnail-public",
+          "description": "neocxi/pixelsnail-public",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2310,7 +2310,7 @@
         {
           "node_type": "item",
           "title": "Improved Variational Inference with inverse autoregressive flows. Kingma, Salimans, Jozefowicz, Chen, Sutskever, Welling https://arxiv.org/pdf/1606.04934.pdf",
-          "description": "https://github.com/kefirski/bdir_vae",
+          "description": "kefirski/bdir_vae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2339,7 +2339,7 @@
         {
           "node_type": "item",
           "title": "It takes (only) two: adversarial generator-encoder networks. Ulyanov, Vedaldi, Lempitsky https://arxiv.org/pdf/1704.02304.pdf",
-          "description": "https://github.com/DmitryUlyanov/AGE",
+          "description": "DmitryUlyanov/AGE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2362,7 +2362,7 @@
         {
           "node_type": "item",
           "title": "Reconstruction-based disentanglement for pose-invariant face recognition. Peng, Yu, Sohn, Metaxas, Chandraker https://arxiv.org/pdf/1702.03041.pdf",
-          "description": "https://github.com/zhangjunh/DR-GAN-by-pytorch",
+          "description": "zhangjunh/DR-GAN-by-pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2387,7 +2387,7 @@
         {
           "node_type": "item",
           "title": "Disentangled representation learning GAN for pose-invariant face recognition. Tran, Yin, Liu http://zpascal.net/cvpr2017/Tran_Disentangled_Representation_Learning_CVPR_2017_paper.pdf",
-          "description": "https://github.com/kayamin/DR-GAN",
+          "description": "kayamin/DR-GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2408,7 +2408,7 @@
         {
           "node_type": "item",
           "title": "Improving variational auto-encoders using householder flow. Tomczak, Welling https://arxiv.org/pdf/1611.09630.pdf",
-          "description": "https://github.com/jmtomczak/vae_householder_flow",
+          "description": "jmtomczak/vae_householder_flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2435,7 +2435,7 @@
         {
           "node_type": "item",
           "title": "Sticking the landing: simple, lower-variance gradient estimators for variational inference. Roeder, Wu, Duvenaud. http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf",
-          "description": "https://github.com/geoffroeder/iwae",
+          "description": "geoffreyroeder/iwae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2456,7 +2456,7 @@
         {
           "node_type": "item",
           "title": "VEEGAN: Reducing mode collapse in GANs using implicit variational learning. Srivastava, Valkov, Russell, Gutmann. https://arxiv.org/pdf/1705.07761.pdf",
-          "description": "https://github.com/akashgit/VEEGAN",
+          "description": "akashgit/VEEGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2513,7 +2513,7 @@
         {
           "node_type": "item",
           "title": "Deep feature consistent variational autoencoder. Hou, Shen, Sun, Qiu https://arxiv.org/pdf/1610.00291.pdf",
-          "description": "https://github.com/sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow",
+          "description": "sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2543,7 +2543,7 @@
         {
           "node_type": "item",
           "title": "The Variational Fair Autoencoder. Louizos, Swersky, Li, Welling, Zemel https://arxiv.org/pdf/1511.00830.pdf",
-          "description": "https://github.com/dendisuhubdy/vfae",
+          "description": "dendisuhubdy/vfae",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2587,7 +2587,7 @@
         {
           "node_type": "item",
           "title": "Disentangling factors of variation in deep representations using adversarial training. Mathieu, Zhao, Sprechmann, Ramesh, LeCunn https://arxiv.org/pdf/1611.03383.pdf",
-          "description": "https://github.com/ananyahjha93/disentangling-factors-of-variation-using-adversarial-training",
+          "description": "ananyahjha93/disentangling-factors-of-variation-using-adversarial-training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2629,7 +2629,7 @@
         {
           "node_type": "item",
           "title": "Variational inference with normalizing flows. Rezende, Mohamed https://arxiv.org/pdf/1505.05770.pdf",
-          "description": "https://github.com/ex4sperans/variational-inference-with-normalizing-flows",
+          "description": "ex4sperans/variational-inference-with-normalizing-flows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2678,7 +2678,7 @@
         {
           "node_type": "item",
           "title": "Stacked What-Where Auto-encoders. Zhao, Mathieu, Goroshin, LeCunn https://arxiv.org/pdf/1506.02351.pdf",
-          "description": "https://github.com/yselivonchyk/Tensorflow_WhatWhereAutoencoder",
+          "description": "yselivonchyk/Tensorflow_WhatWhereAutoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2707,7 +2707,7 @@
         {
           "node_type": "item",
           "title": "Approximate inference for deep latent Gaussian mixtures. Nalisnick, Hertel, Smyth https://pdfs.semanticscholar.org/f6fe/5e8e25994c188ba6a124462e2cc55f2c5a67.pdf",
-          "description": "https://github.com/enalisnick/mixture_density_VAEs",
+          "description": "enalisnick/mixture_density_VAEs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2728,7 +2728,7 @@
         {
           "node_type": "item",
           "title": "Auxiliary Deep Generative Models. Maaloe, Sonderby, Sonderby, Winther https://arxiv.org/pdf/1602.05473.pdf",
-          "description": "https://github.com/larsmaaloee/auxiliary-deep-generative-models",
+          "description": "larsmaaloee/auxiliary-deep-generative-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2770,7 +2770,7 @@
         {
           "node_type": "item",
           "title": "Adversarial autoencoders. Makhzani, Shlens, Jaitly, Goodfellow, Frey https://arxiv.org/pdf/1511.05644.pdf",
-          "description": "https://github.com/conan7882/adversarial-autoencoders",
+          "description": "conan7882/adversarial-autoencoders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2797,7 +2797,7 @@
         {
           "node_type": "item",
           "title": "f-GAN: Training generative neural samplers using variational divergence minimization. Nowozin, Cseke https://arxiv.org/pdf/1606.00709.pdf",
-          "description": "https://github.com/LynnHo/f-GAN-Tensorflow",
+          "description": "LynnHo/f-GAN-Tensorflow",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2821,7 +2821,7 @@
         {
           "node_type": "item",
           "title": "DISCO Nets: DISsimilarity Coefficient networks Bouchacourt, Kumar, Nowozin https://arxiv.org/pdf/1606.02556.pdf",
-          "description": "https://github.com/oval-group/DISCONets",
+          "description": "oval-group/DISCONets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2842,7 +2842,7 @@
         {
           "node_type": "item",
           "title": "Weakly-supervised disentangling with recurrent transformations for 3D view synthesis. Yang, Reed, Yang, Lee https://arxiv.org/pdf/1601.00706.pdf",
-          "description": "https://github.com/jimeiyang/deepRotator",
+          "description": "jimeiyang/deepRotator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2863,7 +2863,7 @@
         {
           "node_type": "item",
           "title": "Autoencoding beyond pixels using a learned similarity metric. Boesen, Larsen, Sonderby, Larochelle, Winther https://arxiv.org/pdf/1512.09300.pdf",
-          "description": "https://github.com/andersbll/autoencoding_beyond_pixels",
+          "description": "andersbll/autoencoding_beyond_pixels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2884,7 +2884,7 @@
         {
           "node_type": "item",
           "title": "Generating images with perceptual similarity metrics based on deep networks Dosovitskiy, Brox. https://arxiv.org/pdf/1602.02644.pdf",
-          "description": "https://github.com/shijx12/DeepSim",
+          "description": "shijx12/DeepSim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2905,7 +2905,7 @@
         {
           "node_type": "item",
           "title": "InfoGAN: interpretable representation learning by information maximizing generative adversarial nets. Chen, Duan, Houthooft, Schulman, Sutskever, Abbeel https://arxiv.org/pdf/1606.03657.pdf",
-          "description": "https://github.com/openai/InfoGAN",
+          "description": "openai/InfoGAN",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2934,7 +2934,7 @@
         {
           "node_type": "item",
           "title": "Deep convolutional inverse graphics network. Kulkarni, Whitney, Kohli, Tenenbaum https://arxiv.org/pdf/1503.03167.pdf",
-          "description": "https://github.com/yselivonchyk/TensorFlow_DCIGN",
+          "description": "yselivonchyk/TensorFlow_DCIGN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "Learning structured output representation using deep conditional generative models. Sohn, Yan, Lee https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models.pdf",
-          "description": "https://github.com/wsjeon/ConditionalVariationalAutoencoder",
+          "description": "wsjeon/ConditionalVariationalAutoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2976,7 +2976,7 @@
         {
           "node_type": "item",
           "title": "DRAW: a recurrent neural network for image generation. Gregor, Danihelka, Graves, Rezende, Wierstra. https://arxiv.org/pdf/1502.04623.pdf",
-          "description": "https://github.com/ericjang/draw",
+          "description": "ericjang/draw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3024,7 +3024,7 @@
         {
           "node_type": "item",
           "title": "Stochastic backpropagation and approximate inference in deep generative models. Rezende, Mohamed, Wierstra https://arxiv.org/pdf/1401.4082.pdf",
-          "description": "https://github.com/ashwindcruz/dgm/tree/master/adgm_mnist",
+          "description": "ashwindcruz/dgm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:48:28.281Z",
+    "last_updated": "2026-10-03T04:35:32.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
