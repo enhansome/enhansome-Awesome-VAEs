@@ -1289,7 +1289,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "jackknife-variational-inference",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:28:03.399Z",
+    "last_updated": "2026-10-04T13:09:12.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
