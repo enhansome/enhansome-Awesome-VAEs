@@ -223,7 +223,7 @@
             "open_issues": 4,
             "owner": "fhkingma",
             "repo": "bitswap",
-            "stars": 272,
+            "stars": 273,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3181,
+            "stars": 3182,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:32:06.728Z",
+    "last_updated": "2026-10-09T14:19:20.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

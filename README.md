@@ -1324,7 +1324,7 @@ Manifold mixup: better representations by interpolating hidden states. Verma, La
 <https://github.com/vikasverma1077/manifold_mixup> ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31
 
 Bit-swap: recursive bits-back coding for lossless compression with hierarchical latent variables. Kingma, Abbeel, Ho. <http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf>
-<https://github.com/fhkingma/bitswap> ⭐ 272 | 🐛 4 | 🌐 Python | 📅 2023-01-14
+<https://github.com/fhkingma/bitswap> ⭐ 273 | 🐛 4 | 🌐 Python | 📅 2023-01-14
 
 Practical lossless compression with latent variables using bits back coding.	Townsend, Bird, Barber.	<https://arxiv.org/pdf/1901.04866.pdf>	<https://github.com/bits-back/bits-back> ⭐ 155 | 🐛 2 | 🌐 Python | 📅 2022-07-22
 
@@ -1594,7 +1594,7 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 95 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 95 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
