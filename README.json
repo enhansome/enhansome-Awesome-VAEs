@@ -750,7 +750,7 @@
             "open_issues": 15,
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "contrastive-loss",
               "deep-learning",
@@ -2918,7 +2918,7 @@
             "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1069,
+            "stars": 1070,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:34:34.135Z",
+    "last_updated": "2026-10-11T13:57:26.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
