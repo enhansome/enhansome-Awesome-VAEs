@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,972 | 🐛 44 | 🌐 Python | 📅 2026-09-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,805 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,973 | 🐛 44 | 🌐 Python | 📅 2026-09-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,805 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1721,7 +1721,7 @@ Composing graphical models with neural networks for structured representations a
 
 Split-brain autoencoders: unsupervised learning by cross-channel prediction.	Zhang, Isola, Efros	<https://arxiv.org/pdf/1611.09842.pdf>
 
-Learning disentangled representations with semi-supervised deep generative models.Siddharth, Paige, van de Meent, Desmaison, Goodman, Kohli, Wood, Torr	<https://papers.nips.cc/paper/7174-learning-disentangled-representations-with-semi-supervised-deep-generative-models.pdf>	<https://github.com/probtorch/probtorch> ⭐ 892 | 🐛 14 | 🌐 Python | 📅 2024-05-12
+Learning disentangled representations with semi-supervised deep generative models.Siddharth, Paige, van de Meent, Desmaison, Goodman, Kohli, Wood, Torr	<https://papers.nips.cc/paper/7174-learning-disentangled-representations-with-semi-supervised-deep-generative-models.pdf>	<https://github.com/probtorch/probtorch> ⭐ 893 | 🐛 14 | 🌐 Python | 📅 2024-05-12
 
 Learning hierarchical features from generative models.	Zhao, Song, Ermon	<https://arxiv.org/pdf/1702.08396.pdf>	<https://github.com/ermongroup/Variational-Ladder-Autoencoder> ⭐ 212 | 🐛 1 | 🌐 Python | 📅 2017-12-21
 
@@ -1735,7 +1735,7 @@ Unsupervised learning of disentangled and interpretable representations from seq
 
 Factorized variational autoencoder for modeling audience reactions to movies.	Deng, Navarathna, Carr, Mandt, Yue, Matthews, Mori	<http://www.yisongyue.com/publications/cvpr2017_fvae.pdf>
 
-Learning latent representations for speech generation and transformation.	Hsu, Zhang, Glass	<https://arxiv.org/pdf/1704.04222.pdf>	<https://github.com/wnhsu/SpeechVAE> ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2018-04-16
+Learning latent representations for speech generation and transformation.	Hsu, Zhang, Glass	<https://arxiv.org/pdf/1704.04222.pdf>	<https://github.com/wnhsu/SpeechVAE> ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2018-04-16
 
 Unsupervised learning of disentangled representations from video.	Denton, Birodkar	<https://papers.nips.cc/paper/7028-unsupervised-learning-of-disentangled-representations-from-video.pdf>	<https://github.com/ap229997/DRNET> ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2020-04-17
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

@@ -556,7 +556,7 @@
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9972,
+            "stars": 9973,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3182,
+            "stars": 3183,
             "topics": [
               "paper"
             ]
@@ -1507,7 +1507,7 @@
             "open_issues": 11,
             "owner": "facebookresearch",
             "repo": "FaderNetworks",
-            "stars": 760,
+            "stars": 761,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -1913,7 +1913,7 @@
             "open_issues": 14,
             "owner": "probtorch",
             "repo": "probtorch",
-            "stars": 892,
+            "stars": 893,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -2030,7 +2030,7 @@
             "open_issues": 2,
             "owner": "wnhsu",
             "repo": "SpeechVAE",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:57:50.847Z",
+    "last_updated": "2026-10-14T12:49:41.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
