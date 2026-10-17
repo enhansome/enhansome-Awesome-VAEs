@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T09:15:06Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
             "stars": 9974,
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3183,
+            "stars": 3182,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:19:08.322Z",
+    "last_updated": "2026-10-17T11:33:14.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
