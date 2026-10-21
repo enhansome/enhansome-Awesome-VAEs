@@ -1594,7 +1594,7 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 95 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 96 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
@@ -1613,7 +1613,7 @@ Unsupervised discrete sentence representation learning for interpretable neural 
 
 Dual swap disentangling.	Feng, Wang, Ke, Zeng, Tao, Song	<https://papers.nips.cc/paper/7830-dual-swap-disentangling.pdf>
 
-Multimodal generative models for scalable weakly-supervised learning.	Wu, Goodman	<https://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf>	<https://github.com/mhw32/multimodal-vae-public> ⭐ 169 | 🐛 4 | 🌐 Python | 📅 2018-08-17 <https://github.com/panpan2/Multimodal-Variational-Autoencoder> ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2019-02-09
+Multimodal generative models for scalable weakly-supervised learning.	Wu, Goodman	<https://papers.nips.cc/paper/7801-multimodal-generative-models-for-scalable-weakly-supervised-learning.pdf>	<https://github.com/mhw32/multimodal-vae-public> ⭐ 168 | 🐛 4 | 🌐 Python | 📅 2018-08-17 <https://github.com/panpan2/Multimodal-Variational-Autoencoder> ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2019-02-09
 
 Do deep generative models know what they don't know?	Nalisnick, Matsukawa, The, Gorur, Lakshminarayanan	<https://arxiv.org/pdf/1810.09136.pdf>
 
@@ -1627,7 +1627,7 @@ Semi-amortized variational autoencoders.	Kim, Wiseman, Miller, Sontag, Rush	<htt
 
 Spherical Latent Spaces for stable variational autoencoders.	Xu, Durrett	<https://arxiv.org/pdf/1808.10805.pdf>	<https://github.com/jiacheng-xu/vmf_vae_nlp> ⭐ 172 | 🐛 5 | 🌐 Python | 📅 2018-12-12
 
-Hyperspherical variational auto-encoders.	Davidson, Falorsi, De Cao, Kipf, Tomczak	<https://arxiv.org/pdf/1804.00891.pdf>	<https://github.com/nicola-decao/s-vae-tf> ⭐ 241 | 🐛 1 | 🌐 Python | 📅 2018-12-01 <https://github.com/nicola-decao/s-vae-pytorch> ⭐ 392 | 🐛 1 | 🌐 Python | 📅 2020-03-21
+Hyperspherical variational auto-encoders.	Davidson, Falorsi, De Cao, Kipf, Tomczak	<https://arxiv.org/pdf/1804.00891.pdf>	<https://github.com/nicola-decao/s-vae-tf> ⭐ 241 | 🐛 1 | 🌐 Python | 📅 2018-12-01 <https://github.com/nicola-decao/s-vae-pytorch> ⭐ 393 | 🐛 1 | 🌐 Python | 📅 2020-03-21
 
 Fader networks: manipulating images by sliding attributes.	Lample, Zeghidour, Usunier, Bordes, Denoyer, Ranzato	<https://arxiv.org/pdf/1706.00409.pdf>	<https://github.com/facebookresearch/FaderNetworks> ⚠️ Archived
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

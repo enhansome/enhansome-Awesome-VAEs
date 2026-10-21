@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "1Konny",
             "repo": "VQ-VAE",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -1339,7 +1339,7 @@
             "open_issues": 4,
             "owner": "mhw32",
             "repo": "multimodal-vae-public",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "generative-models",
               "machine-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:40:29.473Z",
+    "last_updated": "2026-10-21T12:52:50.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
