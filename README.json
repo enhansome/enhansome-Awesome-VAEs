@@ -2496,7 +2496,7 @@
             "open_issues": 5,
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2504,
+            "stars": 2505,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2556,7 +2556,7 @@
             "open_issues": 2,
             "owner": "dendisuhubdy",
             "repo": "vfae",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "deep-learning-research"
             ]
@@ -2918,7 +2918,7 @@
             "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T12:55:18.124Z",
+    "last_updated": "2026-10-23T12:34:49.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

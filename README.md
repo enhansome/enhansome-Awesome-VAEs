@@ -1798,7 +1798,7 @@ A neural representation of sketch drawings.	Ha, Eck	<https://arxiv.org/pdf/1704.
 
 One-shot generalization in deep generative models.  	Rezende, Danihelka, Gregor, Wierstra	<https://arxiv.org/abs/1603.05106>
 
-Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,504 | 🐛 5 | 📅 2020-10-29
+Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,505 | 🐛 5 | 📅 2020-10-29
 
 Deep feature consistent variational autoencoder.	Hou, Shen, Sun, Qiu	<https://arxiv.org/pdf/1610.00291.pdf>	<https://github.com/sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow> ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2018-08-24
 
@@ -1814,7 +1814,7 @@ ELBO surgery: yet another way to carve up the variational evidence lower bound.	
 
 Variational inference with normalizing flows.	Rezende, Mohamed	<https://arxiv.org/pdf/1505.05770.pdf>
 
-The Variational Fair Autoencoder.	Louizos, Swersky, Li, Welling, Zemel	<https://arxiv.org/pdf/1511.00830.pdf>	<https://github.com/dendisuhubdy/vfae> ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2022-10-26
+The Variational Fair Autoencoder.	Louizos, Swersky, Li, Welling, Zemel	<https://arxiv.org/pdf/1511.00830.pdf>	<https://github.com/dendisuhubdy/vfae> ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2022-10-26
 
 Information dropout: learning optimal representations through noisy computations.	Achille, Soatto	<https://arxiv.org/pdf/1611.01353.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
