@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,976 | 🐛 45 | 🌐 Python | 📅 2026-10-20 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,975 | 🐛 45 | 🌐 Python | 📅 2026-10-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,804 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1619,7 +1619,7 @@ Do deep generative models know what they don't know?	Nalisnick, Matsukawa, The, 
 
 Glow: generative flow with invertible 1x1 convolutions.	Kingma, Dhariwal	<https://arxiv.org/pdf/1807.03039.pdf>	<https://github.com/openai/glow> ⚠️ Archived <https://github.com/pytorch/glow> ⚠️ Archived
 
-Inference suboptimality in variational autoencoders.	Cremer, Li, Duvenaud	<https://arxiv.org/pdf/1801.03558.pdf>	<https://github.com/chriscremer/Inference-Suboptimality> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2020-05-22
+Inference suboptimality in variational autoencoders.	Cremer, Li, Duvenaud	<https://arxiv.org/pdf/1801.03558.pdf>	<https://github.com/chriscremer/Inference-Suboptimality> ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2020-05-22
 
 Adversarial Variational Bayes: unifying variational autoencoders and generative adversarial networks.	Mescheder, Mowozin, Geiger	<https://arxiv.org/pdf/1701.04722.pdf>	<https://github.com/LMescheder/AdversarialVariationalBayes> ⭐ 207 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-04-13
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

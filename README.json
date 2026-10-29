@@ -552,11 +552,11 @@
             "id": 87067212,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T10:41:21Z",
+            "last_commit": "2026-10-29T13:42:08Z",
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9976,
+            "stars": 9975,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1388,7 +1388,7 @@
             "open_issues": 0,
             "owner": "chriscremer",
             "repo": "Inference-Suboptimality",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:57:35.522Z",
+    "last_updated": "2026-10-29T14:10:16.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
