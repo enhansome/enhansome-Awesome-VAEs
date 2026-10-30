@@ -64,7 +64,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-03-24T23:50:51Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ratschlab",
             "repo": "GP-VAE",
             "stars": 143,
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:10:16.001Z",
+    "last_updated": "2026-10-30T14:02:06.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

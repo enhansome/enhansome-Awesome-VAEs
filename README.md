@@ -1057,7 +1057,7 @@ Disentangled representation learning with Wasserstein total correlation.	Xiao, W
 
 Wasserstein dependency measure for representation learning. 	Ozair, Lynch, Bengio, van den Oord, Levine, Sermanent	<https://arxiv.org/pdf/1903.11780.pdf>
 
-GP-VAE: deep probabilistic time series imputation.	Fortuin, Baranchuk, Ratsch, Mandt	<https://arxiv.org/pdf/1907.04155.pdf>	<https://github.com/ratschlab/GP-VAE> ⭐ 143 | 🐛 4 | 🌐 Python | 📅 2023-03-24
+GP-VAE: deep probabilistic time series imputation.	Fortuin, Baranchuk, Ratsch, Mandt	<https://arxiv.org/pdf/1907.04155.pdf>	<https://github.com/ratschlab/GP-VAE> ⭐ 143 | 🐛 5 | 🌐 Python | 📅 2023-03-24
 
 Likelihood contribution based multi-scale architecture for generative flows.	Das, Abbeel, Spanos	 <https://arxiv.org/pdf/1908.01686.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
