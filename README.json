@@ -424,7 +424,7 @@
             "open_issues": 11,
             "owner": "daib13",
             "repo": "TwoStageVAE",
-            "stars": 238,
+            "stars": 237,
             "topics": [
               "generative-models",
               "vae"
@@ -798,7 +798,7 @@
             "open_issues": 3,
             "owner": "muhanzhang",
             "repo": "D-VAE",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -2009,7 +2009,7 @@
             "open_issues": 5,
             "owner": "wnhsu",
             "repo": "FactorizedHierarchicalVAE",
-            "stars": 155,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:02:06.695Z",
+    "last_updated": "2026-10-31T13:35:34.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

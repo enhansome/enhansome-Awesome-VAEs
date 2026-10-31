@@ -1358,7 +1358,7 @@ Challenging common assumptions in the unsupervised learning of disentangled repr
 
 Variational prototyping encoder: one shot learning with prototypical images.	Kim, Oh, Lee, Pan, Kweon	<http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Variational_Prototyping-Encoder_One-Shot_Learning_With_Prototypical_Images_CVPR_2019_paper.pdf>
 
-Diagnosing and enchanving VAE models (conf and journal paper both available).	Dai, Wipf	<https://arxiv.org/pdf/1903.05789.pdf>	<https://github.com/daib13/TwoStageVAE> ⭐ 238 | 🐛 11 | 🌐 Python | 📅 2019-05-15
+Diagnosing and enchanving VAE models (conf and journal paper both available).	Dai, Wipf	<https://arxiv.org/pdf/1903.05789.pdf>	<https://github.com/daib13/TwoStageVAE> ⭐ 237 | 🐛 11 | 🌐 Python | 📅 2019-05-15
 
 Disentangling latent hands for image synthesis and pose estimation.	Yang, Yao	<http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf>
 
@@ -1436,7 +1436,7 @@ PuVAE: A variational autoencoder to purify adversarial examples.	Hwang, Park, Ja
 
 Coupled VAE: Improved accuracy and robustness of a variational autoencoder. 	Cao, Li, Nelson	<https://arxiv.org/pdf/1906.00536.pdf>
 
-D-VAE: A variational autoencoder for directed acyclic graphs.	Zhang, Jiang, Cui, Garnett, Chen	<https://arxiv.org/abs/1904.11088>	<https://github.com/muhanzhang/D-VAE> ⭐ 147 | 🐛 3 | 🌐 Python | 📅 2020-09-23
+D-VAE: A variational autoencoder for directed acyclic graphs.	Zhang, Jiang, Cui, Garnett, Chen	<https://arxiv.org/abs/1904.11088>	<https://github.com/muhanzhang/D-VAE> ⭐ 148 | 🐛 3 | 🌐 Python | 📅 2020-09-23
 
 Are disentangled representations helpful for abstract reasoning?	van Steenkiste, Locatello, Schmidhuber, Bachem	<https://arxiv.org/pdf/1905.12506.pdf>
 
@@ -1731,7 +1731,7 @@ Neural Face editing with intrinsic image disentangling.	Shu, Yumer, Hadap, Sanka
 
 Variational Lossy Autoencoder.	Chen, Kingma, Salimans, Duan, Dhariwal, Schulman, Sutskever, Abbeel	<https://arxiv.org/abs/1611.02731>	<https://github.com/jiamings/tsong.me/blob/master/_posts/reading/2016-11-08-lossy-vae.md> ⭐ 15 | 🐛 9 | 🌐 CSS | 📅 2026-08-31
 
-Unsupervised learning of disentangled and interpretable representations from sequential data.	Hsu, Zhang, Glass	<https://papers.nips.cc/paper/6784-unsupervised-learning-of-disentangled-and-interpretable-representations-from-sequential-data.pdf>	<https://github.com/wnhsu/FactorizedHierarchicalVAE> ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2018-01-30 <https://github.com/wnhsu/ScalableFHVAE> ⭐ 53 | 🐛 4 | 🌐 Python | 📅 2018-04-11
+Unsupervised learning of disentangled and interpretable representations from sequential data.	Hsu, Zhang, Glass	<https://papers.nips.cc/paper/6784-unsupervised-learning-of-disentangled-and-interpretable-representations-from-sequential-data.pdf>	<https://github.com/wnhsu/FactorizedHierarchicalVAE> ⭐ 156 | 🐛 5 | 🌐 Python | 📅 2018-01-30 <https://github.com/wnhsu/ScalableFHVAE> ⭐ 53 | 🐛 4 | 🌐 Python | 📅 2018-04-11
 
 Factorized variational autoencoder for modeling audience reactions to movies.	Deng, Navarathna, Carr, Mandt, Yue, Matthews, Mori	<http://www.yisongyue.com/publications/cvpr2017_fvae.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
