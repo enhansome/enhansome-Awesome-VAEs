@@ -1741,7 +1741,7 @@ Unsupervised learning of disentangled representations from video.	Denton, Birodk
 
 Laplacian pyramid of conditional variational autoencoders.	Dorta, Vicente, Agapito, Campbell, Prince, Simpson	<http://cs.bath.ac.uk/~nc537/papers/cvmp17_LapCVAE.pdf>
 
-Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,075 | 🐛 10 | 🌐 Python | 📅 2017-03-22
+Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,074 | 🐛 10 | 🌐 Python | 📅 2017-03-22
 
 Discrete Variational Autoencoder.	Rolfe	<https://arxiv.org/pdf/1609.02200.pdf>	<https://github.com/QuadrantAI/dvae>
 
@@ -1814,7 +1814,7 @@ ELBO surgery: yet another way to carve up the variational evidence lower bound.	
 
 Variational inference with normalizing flows.	Rezende, Mohamed	<https://arxiv.org/pdf/1505.05770.pdf>
 
-The Variational Fair Autoencoder.	Louizos, Swersky, Li, Welling, Zemel	<https://arxiv.org/pdf/1511.00830.pdf>	<https://github.com/dendisuhubdy/vfae> ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2022-10-26
+The Variational Fair Autoencoder.	Louizos, Swersky, Li, Welling, Zemel	<https://arxiv.org/pdf/1511.00830.pdf>	<https://github.com/dendisuhubdy/vfae> ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2022-10-26
 
 Information dropout: learning optimal representations through noisy computations.	Achille, Soatto	<https://arxiv.org/pdf/1611.01353.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
