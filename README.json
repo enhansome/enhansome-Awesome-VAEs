@@ -750,7 +750,7 @@
             "open_issues": 15,
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
-            "stars": 561,
+            "stars": 560,
             "topics": [
               "contrastive-loss",
               "deep-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:59:25.979Z",
+    "last_updated": "2026-11-03T15:01:18.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
@@ -3059,7 +3059,7 @@
       "open_issues": 1,
       "owner": "matthewvowels1",
       "repo": "Awesome-VAEs",
-      "stars": 846,
+      "stars": 845,
       "topics": [
         "awesome-list",
         "deep-learning",

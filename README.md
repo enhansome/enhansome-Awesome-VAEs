@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,974 | 🐛 45 | 🌐 Python | 📅 2026-10-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,805 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,974 | 🐛 45 | 🌐 Python | 📅 2026-10-29 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,806 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1422,7 +1422,7 @@ Unsupervised learning of spatiotemporally coherent metrics	Goroshin, Bruna, Tomp
 
 Temporal difference variational auto-encoder.	Gregor, Papamakarios, Besse, Buesing, Weber	<https://arxiv.org/pdf/1806.03107.pdf>	<https://github.com/xqding/TD-VAE> ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2023-02-20
 
-Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 561 | 🐛 15 | 🌐 Python | 📅 2019-06-19
+Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 560 | 🐛 15 | 🌐 Python | 📅 2019-06-19
 
 Representation disentanglement  for multi-task learning with application to fetal ultrasound	Meng, Pawlowski, Rueckert, Kainz	<https://arxiv.org/pdf/1908.07885.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
