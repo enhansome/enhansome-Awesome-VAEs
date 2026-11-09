@@ -403,7 +403,7 @@
             "open_issues": 22,
             "owner": "google-research",
             "repo": "disentanglement_lib",
-            "stars": 1425,
+            "stars": 1424,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -556,7 +556,7 @@
             "open_issues": 46,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9974,
+            "stars": 9973,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1507,7 +1507,7 @@
             "open_issues": 11,
             "owner": "facebookresearch",
             "repo": "FaderNetworks",
-            "stars": 761,
+            "stars": 760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:15:00.953Z",
+    "last_updated": "2026-11-09T17:24:13.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
