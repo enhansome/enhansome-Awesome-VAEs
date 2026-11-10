@@ -1190,7 +1190,7 @@
             "open_issues": 3,
             "owner": "1Konny",
             "repo": "VQ-VAE",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -1237,7 +1237,7 @@
             "open_issues": 3,
             "owner": "gregversteeg",
             "repo": "CorEx",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "information-theory",
               "machine-learning",
@@ -1681,7 +1681,7 @@
             "open_issues": 7,
             "owner": "tolstikhin",
             "repo": "wae",
-            "stars": 511,
+            "stars": 512,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:24:13.667Z",
+    "last_updated": "2026-11-10T15:31:49.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

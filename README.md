@@ -1594,14 +1594,14 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 96 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 97 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 955 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
 Variational Inference: A review for statisticians.	Blei, Kucukelbir, McAuliffe	<https://arxiv.org/pdf/1601.00670.pdf>
 Advances in Variational Inferece.	Zhang, Kjellstrom	<https://arxiv.org/pdf/1711.05597.pdf>
 
-Auto-encoding total correlation explanation.	Goa, Brekelmans, Steeg, Galstyan	<https://arxiv.org/abs/1802.05822>	Closest: <https://github.com/gregversteeg/CorEx> ⭐ 308 | 🐛 3 | 🌐 Python | 📅 2017-06-02
+Auto-encoding total correlation explanation.	Goa, Brekelmans, Steeg, Galstyan	<https://arxiv.org/abs/1802.05822>	Closest: <https://github.com/gregversteeg/CorEx> ⭐ 309 | 🐛 3 | 🌐 Python | 📅 2017-06-02
 
 Fixing a broken ELBO.	Alemi, Poole, Fischer, Dillon, Saurous, Murphy	<https://arxiv.org/pdf/1711.00464.pdf>
 
@@ -1653,7 +1653,7 @@ Learning deep disentangled embeddings with F-statistic loss.	Ridgeway, Mozer	<ht
 
 Learning latent subspaces in variational  autoencoders.	Klys, Snell, Zemel	<https://arxiv.org/pdf/1812.06190.pdf>
 
-On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 511 | 🐛 7 | 🌐 Python | 📅 2018-06-28
+On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 512 | 🐛 7 | 🌐 Python | 📅 2018-06-28
 
 Learning disentangled representations with Wasserstein auto-encoders.	Rubenstein, Scholkopf, Tolstikhin	<https://openreview.net/pdf?id=Hy79-UJPM>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
