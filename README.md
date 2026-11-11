@@ -1368,7 +1368,7 @@ Disentangling latent space for VAE by label relevant/irrelvant dimensions.	Zheng
 
 Variational autoencoders pursue PCA directions (by accident).	Rolinek, Zietlow, Martius	<https://arxiv.org/pdf/1812.06775.pdf>
 
-Disentangled Representation learning for 3D face shape.	Jiang, Wu, Chen, Zhang	<https://arxiv.org/pdf/1902.09887.pdf>	<https://github.com/zihangJiang/DR-Learning-for-3D-Face> ⭐ 231 | 🐛 7 | 🌐 Python | 📅 2019-09-21
+Disentangled Representation learning for 3D face shape.	Jiang, Wu, Chen, Zhang	<https://arxiv.org/pdf/1902.09887.pdf>	<https://github.com/zihangJiang/DR-Learning-for-3D-Face> ⭐ 230 | 🐛 7 | 🌐 Python | 📅 2019-09-21
 
 Preventing posterior collapse with delta-VAEs.	Razavi, van den Oord, Poole, Vinyals	<https://arxiv.org/pdf/1901.03416.pdf>	<https://github.com/mattjj/svae> ⭐ 353 | 🐛 12 | 🌐 Python | 📅 2018-08-22
 
@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,973 | 🐛 46 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,807 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,976 | 🐛 46 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,807 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1798,7 +1798,7 @@ A neural representation of sketch drawings.	Ha, Eck	<https://arxiv.org/pdf/1704.
 
 One-shot generalization in deep generative models.  	Rezende, Danihelka, Gregor, Wierstra	<https://arxiv.org/abs/1603.05106>
 
-Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,506 | 🐛 5 | 📅 2020-10-29
+Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,507 | 🐛 5 | 📅 2020-10-29
 
 Deep feature consistent variational autoencoder.	Hou, Shen, Sun, Qiu	<https://arxiv.org/pdf/1610.00291.pdf>	<https://github.com/sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow> ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2018-08-24
 
@@ -1864,7 +1864,7 @@ Information dropout: learning optimal representations through noisy computations
 
 Weakly-supervised disentangling with recurrent transformations for 3D view synthesis.	Yang, Reed, Yang, Lee	<https://arxiv.org/pdf/1601.00706.pdf>	<https://github.com/jimeiyang/deepRotator> ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2017-11-21
 
-Autoencoding beyond pixels using a learned similarity metric.	Boesen, Larsen, Sonderby, Larochelle, Winther	<https://arxiv.org/pdf/1512.09300.pdf>	<https://github.com/andersbll/autoencoding_beyond_pixels> ⭐ 447 | 🐛 13 | 🌐 Python | 📅 2017-02-21
+Autoencoding beyond pixels using a learned similarity metric.	Boesen, Larsen, Sonderby, Larochelle, Winther	<https://arxiv.org/pdf/1512.09300.pdf>	<https://github.com/andersbll/autoencoding_beyond_pixels> ⭐ 446 | 🐛 13 | 🌐 Python | 📅 2017-02-21
 
 Generating images with perceptual similarity metrics based on deep networks	Dosovitskiy, Brox.	<https://arxiv.org/pdf/1602.02644.pdf>	<https://github.com/shijx12/DeepSim> ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2017-09-05
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

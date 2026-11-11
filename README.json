@@ -472,7 +472,7 @@
             "open_issues": 7,
             "owner": "zihangJiang",
             "repo": "DR-Learning-for-3D-Face",
-            "stars": 231,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -556,7 +556,7 @@
             "open_issues": 46,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9973,
+            "stars": 9976,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2496,7 +2496,7 @@
             "open_issues": 5,
             "owner": "aleju",
             "repo": "papers",
-            "stars": 2506,
+            "stars": 2507,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2876,7 +2876,7 @@
             "open_issues": 13,
             "owner": "andersbll",
             "repo": "autoencoding_beyond_pixels",
-            "stars": 447,
+            "stars": 446,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:31:49.349Z",
+    "last_updated": "2026-11-11T15:05:39.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
