@@ -223,7 +223,7 @@
             "open_issues": 4,
             "owner": "fhkingma",
             "repo": "bitswap",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -556,7 +556,7 @@
             "open_issues": 46,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9976,
+            "stars": 9977,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:56:05.596Z",
+    "last_updated": "2026-11-13T15:18:24.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
