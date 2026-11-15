@@ -403,7 +403,7 @@
             "open_issues": 22,
             "owner": "google-research",
             "repo": "disentanglement_lib",
-            "stars": 1424,
+            "stars": 1425,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3184,
+            "stars": 3183,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:04:47.524Z",
+    "last_updated": "2026-11-15T14:41:27.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
