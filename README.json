@@ -193,7 +193,7 @@
             "open_issues": 9,
             "owner": "vikasverma1077",
             "repo": "manifold_mixup",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "data-augumentation",
               "deep-learning",
@@ -493,7 +493,7 @@
             "open_issues": 12,
             "owner": "mattjj",
             "repo": "svae",
-            "stars": 353,
+            "stars": 354,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:01.554Z"
@@ -750,7 +750,7 @@
             "open_issues": 15,
             "owner": "davidtellez",
             "repo": "contrastive-predictive-coding",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "contrastive-loss",
               "deep-learning",
@@ -1365,7 +1365,7 @@
             "open_issues": 65,
             "owner": "openai",
             "repo": "glow",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "paper"
             ]
@@ -2918,7 +2918,7 @@
             "open_issues": 24,
             "owner": "openai",
             "repo": "InfoGAN",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "paper"
             ]
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:56:45.364Z",
+    "last_updated": "2026-11-17T16:50:10.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",

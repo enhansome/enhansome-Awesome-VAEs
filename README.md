@@ -1321,7 +1321,7 @@ ISA-VAE: Independent subspace analysis with variational autoencoders. Anon. <htt
 
 Manifold mixup: better representations by interpolating hidden states. Verma, Lamb, Beckham, Najafi, Mitliagkas, Courville, Lopez-Paz, Bengio.
 <https://arxiv.org/pdf/1806.05236.pdf>
-<https://github.com/vikasverma1077/manifold_mixup> ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31
+<https://github.com/vikasverma1077/manifold_mixup> ⭐ 495 | 🐛 9 | 🌐 Python | 📅 2024-03-31
 
 Bit-swap: recursive bits-back coding for lossless compression with hierarchical latent variables. Kingma, Abbeel, Ho. <http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf>
 <https://github.com/fhkingma/bitswap> ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2023-01-14
@@ -1370,7 +1370,7 @@ Variational autoencoders pursue PCA directions (by accident).	Rolinek, Zietlow, 
 
 Disentangled Representation learning for 3D face shape.	Jiang, Wu, Chen, Zhang	<https://arxiv.org/pdf/1902.09887.pdf>	<https://github.com/zihangJiang/DR-Learning-for-3D-Face> ⭐ 230 | 🐛 7 | 🌐 Python | 📅 2019-09-21
 
-Preventing posterior collapse with delta-VAEs.	Razavi, van den Oord, Poole, Vinyals	<https://arxiv.org/pdf/1901.03416.pdf>	<https://github.com/mattjj/svae> ⭐ 353 | 🐛 12 | 🌐 Python | 📅 2018-08-22
+Preventing posterior collapse with delta-VAEs.	Razavi, van den Oord, Poole, Vinyals	<https://arxiv.org/pdf/1901.03416.pdf>	<https://github.com/mattjj/svae> ⭐ 354 | 🐛 12 | 🌐 Python | 📅 2018-08-22
 
 Gait recognition via disentangled representation learning.	Zhang, Tran, Yin, Atoum, Liu, Wan, Wang	<https://arxiv.org/pdf/1904.04925.pdf>
 
@@ -1422,7 +1422,7 @@ Unsupervised learning of spatiotemporally coherent metrics	Goroshin, Bruna, Tomp
 
 Temporal difference variational auto-encoder.	Gregor, Papamakarios, Besse, Buesing, Weber	<https://arxiv.org/pdf/1806.03107.pdf>	<https://github.com/xqding/TD-VAE> ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2023-02-20
 
-Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 560 | 🐛 15 | 🌐 Python | 📅 2019-06-19
+Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 561 | 🐛 15 | 🌐 Python | 📅 2019-06-19
 
 Representation disentanglement  for multi-task learning with application to fetal ultrasound	Meng, Pawlowski, Rueckert, Kainz	<https://arxiv.org/pdf/1908.07885.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
