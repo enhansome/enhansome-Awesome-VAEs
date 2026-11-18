@@ -1422,7 +1422,7 @@ Unsupervised learning of spatiotemporally coherent metrics	Goroshin, Bruna, Tomp
 
 Temporal difference variational auto-encoder.	Gregor, Papamakarios, Besse, Buesing, Weber	<https://arxiv.org/pdf/1806.03107.pdf>	<https://github.com/xqding/TD-VAE> ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2023-02-20
 
-Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 561 | 🐛 15 | 🌐 Python | 📅 2019-06-19
+Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 562 | 🐛 15 | 🌐 Python | 📅 2019-06-19
 
 Representation disentanglement  for multi-task learning with application to fetal ultrasound	Meng, Pawlowski, Rueckert, Kainz	<https://arxiv.org/pdf/1908.07885.pdf>
 
@@ -1653,7 +1653,7 @@ Learning deep disentangled embeddings with F-statistic loss.	Ridgeway, Mozer	<ht
 
 Learning latent subspaces in variational  autoencoders.	Klys, Snell, Zemel	<https://arxiv.org/pdf/1812.06190.pdf>
 
-On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 512 | 🐛 7 | 🌐 Python | 📅 2018-06-28
+On the latent space of Wasserstein auto-encoders. Rubenstein, Scholkopf, Tolstikhin.	<https://arxiv.org/pdf/1802.03761.pdf>	<https://github.com/tolstikhin/wae> ⭐ 511 | 🐛 7 | 🌐 Python | 📅 2018-06-28
 
 Learning disentangled representations with Wasserstein auto-encoders.	Rubenstein, Scholkopf, Tolstikhin	<https://openreview.net/pdf?id=Hy79-UJPM>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
