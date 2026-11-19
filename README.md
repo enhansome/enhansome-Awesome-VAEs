@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,977 | 🐛 46 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,807 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,976 | 🐛 44 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,807 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1754,7 +1754,7 @@ Joint Multimodal learning with deep generative models.	Suzuki, Nakayama, Matsuo	
 
 Towards a deeper understanding of variational autoencoding models.	Zhao, Song, Ermon	<https://arxiv.org/pdf/1702.08658.pdf>	<https://github.com/ermongroup/Sequential-Variational-Autoencoder> ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2017-08-23
 
-Lagging inference networks and posterior collapse in variational autoencoders.	Dilokthanakul, Mediano, Garnelo, Lee, Salimbeni, Arulkumaran, Shanahan	<https://arxiv.org/pdf/1611.02648.pdf>	<https://github.com/Nat-D/GMVAE> ⭐ 216 | 🐛 1 | 🌐 Lua | 📅 2020-03-04 <https://github.com/psanch21/VAE-GMVAE> ⭐ 210 | 🐛 3 | 🌐 Python | 📅 2020-07-01
+Lagging inference networks and posterior collapse in variational autoencoders.	Dilokthanakul, Mediano, Garnelo, Lee, Salimbeni, Arulkumaran, Shanahan	<https://arxiv.org/pdf/1611.02648.pdf>	<https://github.com/Nat-D/GMVAE> ⭐ 216 | 🐛 1 | 🌐 Lua | 📅 2020-03-04 <https://github.com/psanch21/VAE-GMVAE> ⭐ 208 | 🐛 3 | 🌐 Python | 📅 2020-07-01
 
 On the challenges of learning with inference networks on sparse, high-dimensional data.	Krishnan, Liang, Hoffman	<https://arxiv.org/pdf/1710.06085.pdf>	<https://github.com/rahulk90/vae_sparse> ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2017-10-15
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
