@@ -1321,7 +1321,7 @@ ISA-VAE: Independent subspace analysis with variational autoencoders. Anon. <htt
 
 Manifold mixup: better representations by interpolating hidden states. Verma, Lamb, Beckham, Najafi, Mitliagkas, Courville, Lopez-Paz, Bengio.
 <https://arxiv.org/pdf/1806.05236.pdf>
-<https://github.com/vikasverma1077/manifold_mixup> ⭐ 495 | 🐛 9 | 🌐 Python | 📅 2024-03-31
+<https://github.com/vikasverma1077/manifold_mixup> ⭐ 494 | 🐛 9 | 🌐 Python | 📅 2024-03-31
 
 Bit-swap: recursive bits-back coding for lossless compression with hierarchical latent variables. Kingma, Abbeel, Ho. <http://proceedings.mlr.press/v97/kingma19a/kingma19a.pdf>
 <https://github.com/fhkingma/bitswap> ⭐ 274 | 🐛 4 | 🌐 Python | 📅 2023-01-14
@@ -1370,7 +1370,7 @@ Variational autoencoders pursue PCA directions (by accident).	Rolinek, Zietlow, 
 
 Disentangled Representation learning for 3D face shape.	Jiang, Wu, Chen, Zhang	<https://arxiv.org/pdf/1902.09887.pdf>	<https://github.com/zihangJiang/DR-Learning-for-3D-Face> ⭐ 230 | 🐛 7 | 🌐 Python | 📅 2019-09-21
 
-Preventing posterior collapse with delta-VAEs.	Razavi, van den Oord, Poole, Vinyals	<https://arxiv.org/pdf/1901.03416.pdf>	<https://github.com/mattjj/svae> ⭐ 354 | 🐛 12 | 🌐 Python | 📅 2018-08-22
+Preventing posterior collapse with delta-VAEs.	Razavi, van den Oord, Poole, Vinyals	<https://arxiv.org/pdf/1901.03416.pdf>	<https://github.com/mattjj/svae> ⭐ 351 | 🐛 12 | 🌐 Python | 📅 2018-08-22
 
 Gait recognition via disentangled representation learning.	Zhang, Tran, Yin, Atoum, Liu, Wan, Wang	<https://arxiv.org/pdf/1904.04925.pdf>
 
@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,976 | 🐛 44 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,807 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,977 | 🐛 45 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,808 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1422,7 +1422,7 @@ Unsupervised learning of spatiotemporally coherent metrics	Goroshin, Bruna, Tomp
 
 Temporal difference variational auto-encoder.	Gregor, Papamakarios, Besse, Buesing, Weber	<https://arxiv.org/pdf/1806.03107.pdf>	<https://github.com/xqding/TD-VAE> ⭐ 167 | 🐛 0 | 🌐 Python | 📅 2023-02-20
 
-Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 562 | 🐛 15 | 🌐 Python | 📅 2019-06-19
+Representation learning with contrastive predictive coding.	van den Oord, Li, Vinyals	<https://arxiv.org/pdf/1807.03748.pdf>	<https://github.com/davidtellez/contrastive-predictive-coding> ⭐ 561 | 🐛 15 | 🌐 Python | 📅 2019-06-19
 
 Representation disentanglement  for multi-task learning with application to fetal ultrasound	Meng, Pawlowski, Rueckert, Kainz	<https://arxiv.org/pdf/1908.07885.pdf>
 
@@ -1594,14 +1594,14 @@ Information constraints on auto-encoding variational bayes.	Lopez, Regier, Jorda
 
 Learning disentangled joint continuous and discrete representations.	Dupont	<https://papers.nips.cc/paper/7351-learning-disentangled-joint-continuous-and-discrete-representations.pdf>	<https://github.com/Schlumberger/joint-vae> ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02
 
-Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 97 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 956 | 🐛 9 | 🌐 Python | 📅 2023-07-12
+Neural discrete representation learning.	van den Oord, Vinyals, Kavukcuoglu	<https://arxiv.org/pdf/1711.00937.pdf>	<https://github.com/1Konny/VQ-VAE> ⭐ 97 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2018-03-23  <https://github.com/ritheshkumar95/pytorch-vqvae> ⭐ 954 | 🐛 9 | 🌐 Python | 📅 2023-07-12
 
 Disentangled sequential autoencoder.	Li, Mandt	<https://arxiv.org/abs/1803.02991>	<https://github.com/yatindandi/Disentangled-Sequential-Autoencoder> ⭐ 106 | 🐛 6 | 🌐 Python | 📅 2019-01-24
 
 Variational Inference: A review for statisticians.	Blei, Kucukelbir, McAuliffe	<https://arxiv.org/pdf/1601.00670.pdf>
 Advances in Variational Inferece.	Zhang, Kjellstrom	<https://arxiv.org/pdf/1711.05597.pdf>
 
-Auto-encoding total correlation explanation.	Goa, Brekelmans, Steeg, Galstyan	<https://arxiv.org/abs/1802.05822>	Closest: <https://github.com/gregversteeg/CorEx> ⭐ 309 | 🐛 3 | 🌐 Python | 📅 2017-06-02
+Auto-encoding total correlation explanation.	Goa, Brekelmans, Steeg, Galstyan	<https://arxiv.org/abs/1802.05822>	Closest: <https://github.com/gregversteeg/CorEx> ⭐ 307 | 🐛 3 | 🌐 Python | 📅 2017-06-02
 
 Fixing a broken ELBO.	Alemi, Poole, Fischer, Dillon, Saurous, Murphy	<https://arxiv.org/pdf/1711.00464.pdf>
 
@@ -1741,7 +1741,7 @@ Unsupervised learning of disentangled representations from video.	Denton, Birodk
 
 Laplacian pyramid of conditional variational autoencoders.	Dorta, Vicente, Agapito, Campbell, Prince, Simpson	<http://cs.bath.ac.uk/~nc537/papers/cvmp17_LapCVAE.pdf>
 
-Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,074 | 🐛 10 | 🌐 Python | 📅 2017-03-22
+Neural Photo Editing with Inrospective Adverarial Networks.	Brock, Lim, Ritchie, Weston	<https://arxiv.org/pdf/1609.07093.pdf>	<https://github.com/ajbrock/Neural-Photo-Editor> ⭐ 2,071 | 🐛 10 | 🌐 Python | 📅 2017-03-22
 
 Discrete Variational Autoencoder.	Rolfe	<https://arxiv.org/pdf/1609.02200.pdf>	<https://github.com/QuadrantAI/dvae>
 
@@ -1798,7 +1798,7 @@ A neural representation of sketch drawings.	Ha, Eck	<https://arxiv.org/pdf/1704.
 
 One-shot generalization in deep generative models.  	Rezende, Danihelka, Gregor, Wierstra	<https://arxiv.org/abs/1603.05106>
 
-Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,507 | 🐛 5 | 📅 2020-10-29
+Attend, infer, repeat: fast scene understanding with generative models.	Eslami, Heess, Weber, Tassa, Szepesvari, Kavukcuoglu, Hinton	<https://arxiv.org/pdf/1603.08575.pdf>	<http://akosiorek.github.io/ml/2017/09/03/implementing-air.html> <https://github.com/aleju/papers/blob/master/neural-nets/Attend_Infer_Repeat.md> ⭐ 2,506 | 🐛 5 | 📅 2020-10-29
 
 Deep feature consistent variational autoencoder.	Hou, Shen, Sun, Qiu	<https://arxiv.org/pdf/1610.00291.pdf>	<https://github.com/sbavon/Deep-Feature-Consistent-Variational-AutoEncoder-in-Tensorflow> ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2018-08-24
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
