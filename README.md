@@ -1385,7 +1385,7 @@ A semi-supervised Deep generative model for human body analysis.	de Bem, Ghosh, 
 
 Multi-object representation learning with iterative variational inference.	Greff, Kaufman, Kabra, Watters, Burgess, Zoran, Matthey, Botvinick, Lerchner	<https://arxiv.org/pdf/1903.00450.pdf>	<https://github.com/MichaelKevinKelly/IODINE> ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2019-06-07
 
-Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,979 | 🐛 45 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,808 | 🐛 48 | 🌐 Python | 📅 2023-02-15
+Generating diverse high-fidelity images with VQ-VAE-2.	Razavi, van den Oord, Vinyals	<https://arxiv.org/pdf/1906.00446.pdf>	<https://github.com/deepmind/sonnet/blob/master/sonnet/examples/vqvae_example.ipynb> ⭐ 9,978 | 🐛 45 | 🌐 Python | 📅 2026-11-03 <https://github.com/rosinality/vq-vae-2-pytorch> ⭐ 1,808 | 🐛 48 | 🌐 Python | 📅 2023-02-15
 
 MONet: unsupervised scene decomposition and representation.	Burgess, Matthey, Watters, Kabra, Higgins, Botvinick, Lerchner	<https://arxiv.org/pdf/1901.11390.pdf>
 
@@ -1403,7 +1403,7 @@ Generalized variational inference.	Knoblauch, Jewson, Damoulas	<https://arxiv.or
 
 Variational autoencoders and nonlinear ICA: a unifying framework.	Khemakhem, Kingma	<https://arxiv.org/pdf/1907.04809.pdf>
 
-Lagging inference networks and posterior collapse in variational autoencoders.	He, Spokoyny, Neubig, Berg-Kirkpatrick	<https://arxiv.org/pdf/1901.05534.pdf>	<https://github.com/jxhe/vae-lagging-encoder> ⭐ 185 | 🐛 2 | 🌐 Python | 📅 2020-12-15
+Lagging inference networks and posterior collapse in variational autoencoders.	He, Spokoyny, Neubig, Berg-Kirkpatrick	<https://arxiv.org/pdf/1901.05534.pdf>	<https://github.com/jxhe/vae-lagging-encoder> ⭐ 184 | 🐛 2 | 🌐 Python | 📅 2020-12-15
 
 Avoiding latent variable collapse with generative skip models.	Dieng, Kim, Rush, Blei	<https://arxiv.org/pdf/1807.04863.pdf>
 
@@ -1930,4 +1930,4 @@ The information bottleneck method.	Tishby, Pereira, Bialek	<https://arxiv.org/pd
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

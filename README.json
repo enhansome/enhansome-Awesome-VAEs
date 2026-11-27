@@ -556,7 +556,7 @@
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9979,
+            "stars": 9978,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -629,7 +629,7 @@
             "open_issues": 2,
             "owner": "jxhe",
             "repo": "vae-lagging-encoder",
-            "stars": 185,
+            "stars": 184,
             "topics": [
               "image-generation",
               "posterior-collapse",
@@ -3047,7 +3047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T17:40:24.629Z",
+    "last_updated": "2026-11-27T17:24:47.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.",
